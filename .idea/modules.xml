@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Pro Android AR 8.iml" filepath="$PROJECT_DIR$/Pro Android AR 8.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TAMUK-Augment-Room-Design.iml" filepath="$PROJECT_DIR$/TAMUK-Augment-Room-Design.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
     </modules>
   </component>
