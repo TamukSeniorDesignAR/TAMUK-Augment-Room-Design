@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\Mons\Documents\Android\Pro Android AR 8\app\libs\AndAR.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="c64ed86ab05b29edb2fec1044418873c78a06415">
+        <dex dex="C:\Users\Mons\Documents\Android\Pro Android AR 8\app\build\intermediates\pre-dexed\debug\AndAR_c68f4f99f80565c6818ab2601ccdb4b0f92519ef.jar" />
+    </item>
+
+</items>
