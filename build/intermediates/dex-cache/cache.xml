@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" >
+<items version="2" />
 
+<<<<<<< HEAD
     <item
         jar="C:\Users\Mons\Documents\Android\Pro Android AR 8\app\libs\AndAR.jar"
         jumboMode="false"
@@ -17,3 +18,5 @@
     </item>
 
 </items>
+=======
+>>>>>>> cd9e7e2c6e21f04bf024a653441d82d7b404b443
