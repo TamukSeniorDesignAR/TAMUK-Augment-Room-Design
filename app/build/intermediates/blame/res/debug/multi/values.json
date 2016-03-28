@@ -415,7 +415,14 @@
                     "endOffset": 181
                 },
                 "from": {
-                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 0,
+                        "startOffset": 175,
+                        "endColumn": 126,
+                        "endOffset": 301
+                    }
                 }
             },
             {
@@ -427,7 +434,14 @@
                     "endOffset": 316
                 },
                 "from": {
-                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 17,
+                        "startColumn": 0,
+                        "startOffset": 730,
+                        "endColumn": 130,
+                        "endOffset": 860
+                    }
                 }
             },
             {
@@ -458,7 +472,14 @@
                     "endOffset": 431
                 },
                 "from": {
-                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 22,
+                        "startColumn": 0,
+                        "startOffset": 1226,
+                        "endColumn": 54,
+                        "endOffset": 1280
+                    }
                 }
             },
             {
@@ -470,7 +491,14 @@
                     "endOffset": 499
                 },
                 "from": {
-                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 19,
+                        "startColumn": 0,
+                        "startOffset": 1044,
+                        "endColumn": 63,
+                        "endOffset": 1107
+                    }
                 }
             },
             {
@@ -482,7 +510,14 @@
                     "endOffset": 554
                 },
                 "from": {
-                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 24,
+                        "startColumn": 0,
+                        "startOffset": 1316,
+                        "endColumn": 50,
+                        "endOffset": 1366
+                    }
                 }
             },
             {
@@ -494,7 +529,14 @@
                     "endOffset": 626
                 },
                 "from": {
-                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 0,
+                        "startOffset": 425,
+                        "endColumn": 67,
+                        "endOffset": 492
+                    }
                 }
             },
             {
@@ -506,7 +548,14 @@
                     "endOffset": 665
                 },
                 "from": {
-                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 23,
+                        "startColumn": 0,
+                        "startOffset": 1281,
+                        "endColumn": 34,
+                        "endOffset": 1315
+                    }
                 }
             },
             {
@@ -518,7 +567,14 @@
                     "endOffset": 714
                 },
                 "from": {
-                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 25,
+                        "startColumn": 0,
+                        "startOffset": 1367,
+                        "endColumn": 44,
+                        "endOffset": 1411
+                    }
                 }
             },
             {
@@ -530,7 +586,14 @@
                     "endOffset": 768
                 },
                 "from": {
-                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 0,
+                        "startOffset": 1108,
+                        "endColumn": 49,
+                        "endOffset": 1157
+                    }
                 }
             },
             {
@@ -542,7 +605,14 @@
                     "endOffset": 826
                 },
                 "from": {
-                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 16,
+                        "startColumn": 0,
+                        "startOffset": 676,
+                        "endColumn": 53,
+                        "endOffset": 729
+                    }
                 }
             },
             {
@@ -554,7 +624,14 @@
                     "endOffset": 953
                 },
                 "from": {
-                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 0,
+                        "startOffset": 302,
+                        "endColumn": 122,
+                        "endOffset": 424
+                    }
                 }
             },
             {
@@ -566,7 +643,14 @@
                     "endOffset": 995
                 },
                 "from": {
-                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 0,
+                        "startOffset": 554,
+                        "endColumn": 37,
+                        "endOffset": 591
+                    }
                 }
             },
             {
@@ -578,7 +662,14 @@
                     "endOffset": 1035
                 },
                 "from": {
-                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 0,
+                        "startOffset": 636,
+                        "endColumn": 35,
+                        "endOffset": 671
+                    }
                 }
             },
             {
@@ -590,7 +681,14 @@
                     "endOffset": 1108
                 },
                 "from": {
-                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 114,
+                        "startOffset": 975,
+                        "endColumn": 182,
+                        "endOffset": 1043
+                    }
                 }
             },
             {
@@ -602,7 +700,14 @@
                     "endOffset": 1170
                 },
                 "from": {
-                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 57,
+                        "startOffset": 918,
+                        "endColumn": 114,
+                        "endOffset": 975
+                    }
                 }
             },
             {
@@ -614,7 +719,14 @@
                     "endOffset": 1237
                 },
                 "from": {
-                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 0,
+                        "startOffset": 112,
+                        "endColumn": 62,
+                        "endOffset": 174
+                    }
                 }
             },
             {
@@ -626,7 +738,14 @@
                     "endOffset": 1299
                 },
                 "from": {
-                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 18,
+                        "startColumn": 0,
+                        "startOffset": 861,
+                        "endColumn": 57,
+                        "endOffset": 918
+                    }
                 }
             },
             {
@@ -638,7 +757,14 @@
                     "endOffset": 1347
                 },
                 "from": {
-                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 0,
+                        "startOffset": 592,
+                        "endColumn": 43,
+                        "endOffset": 635
+                    }
                 }
             },
             {
@@ -650,7 +776,14 @@
                     "endOffset": 1412
                 },
                 "from": {
-                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 0,
+                        "startOffset": 493,
+                        "endColumn": 60,
+                        "endOffset": 553
+                    }
                 }
             },
             {
@@ -662,7 +795,14 @@
                     "endOffset": 1484
                 },
                 "from": {
-                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 21,
+                        "startColumn": 0,
+                        "startOffset": 1158,
+                        "endColumn": 67,
+                        "endOffset": 1225
+                    }
                 }
             }
         ]
