@@ -26,37 +26,41 @@ public class ModelChooser extends ListActivity {
 	@Override
 	public void onCreate(Bundle savedInstanceState) {
 		super.onCreate(savedInstanceState);
-		this.requestWindowFeature(Window.FEATURE_NO_TITLE);
+		//this.requestWindowFeature(Window.FEATURE_NO_TITLE);
+		/*getWindow().getDecorView().setSystemUiVisibility(
+				View.SYSTEM_UI_FLAG_LAYOUT_STABLE
+						| View.SYSTEM_UI_FLAG_LAYOUT_FULLSCREEN);*/
+
 		AssetManager am = getAssets();
 		Vector<Item> models = new Vector<Item>();
 		Item item = new Item();
-		item.text = getResources().getString(R.string.choose_a_model);
+		item.text = " ";
 		item.type = Item.TYPE_HEADER;
 		models.add(item);
-		
+
 		try {
 			String[] modelFiles = am.list("models");
 			List<String> modelFilesList = Arrays.asList(modelFiles);
 			for (int i = 0; i < modelFiles.length; i++) {
 				String currFileName = modelFiles[i];
-				if(currFileName.endsWith(".obj")) { 
+				if (currFileName.endsWith(".obj")) {
 					item = new Item();
-					String trimmedFileName = currFileName.substring(0,currFileName.lastIndexOf(".obj"));
+					String trimmedFileName = currFileName.substring(0, currFileName.lastIndexOf(".obj"));
 					item.text = trimmedFileName;
 					models.add(item);
-					if(modelFilesList.contains(trimmedFileName+".jpg")) {
-						InputStream is = am.open("models/"+trimmedFileName+".jpg");
-						item.icon=(BitmapFactory.decodeStream(is));
-					} else if(modelFilesList.contains(trimmedFileName+".png")) {
-						InputStream is = am.open("models/"+trimmedFileName+".png");
-						item.icon=(BitmapFactory.decodeStream(is));
-					} 
+					if (modelFilesList.contains(trimmedFileName + ".jpg")) {
+						InputStream is = am.open("models/" + trimmedFileName + ".jpg");
+						item.icon = (BitmapFactory.decodeStream(is));
+					} else if (modelFilesList.contains(trimmedFileName + ".png")) {
+						InputStream is = am.open("models/" + trimmedFileName + ".png");
+						item.icon = (BitmapFactory.decodeStream(is));
+					}
 				}
 			}
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
-		item = new Item();
+		/* item = new Item();
 		item.text = getResources().getString(R.string.custom_model);
 		item.type = Item.TYPE_HEADER;
 		models.add(item);
@@ -71,11 +75,10 @@ public class ModelChooser extends ListActivity {
 		item = new Item();
 		item.text = getResources().getString(R.string.instructions);
 		item.icon = new Integer(R.drawable.help);
-		models.add(item);
-		
+		models.add(item); */
+
 		setListAdapter(new ModelChooserListAdapter(models));
 	}
-	
 	@Override
 	protected void onListItemClick(ListView l, View v, int position, long id) {
 		super.onListItemClick(l, v, position, id);

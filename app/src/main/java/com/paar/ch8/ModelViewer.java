@@ -249,7 +249,7 @@ public class ModelViewer extends AndARActivity implements SurfaceHolder.Callback
 						} else {
 							Log.w("ModelLoader", "no file reader");
 						}
-						String modelFileName3 = "towergreen.obj";
+						/*String modelFileName3 = "towergreen.obj";
 						BufferedReader fileReader3 = fileUtil.getReaderFromName(modelFileName3);
 						if(fileReader3 != null) {
 							model3 = parser.parse("towergreen", fileReader3);
@@ -266,7 +266,7 @@ public class ModelViewer extends AndARActivity implements SurfaceHolder.Callback
 							model3d4 = new Model3D(model4, modelName2patternName(modelFileName4) + ".patt");
 						} else {
 							Log.w("ModelLoader", "no file reader");
-						}
+						} */
 						String modelFileName5 = "plant.obj";
 						BufferedReader fileReader5 = fileUtil.getReaderFromName(modelFileName5);
 						if(fileReader5 != null) {
@@ -296,8 +296,8 @@ public class ModelViewer extends AndARActivity implements SurfaceHolder.Callback
     			if(model3d!=null) {
     				artoolkit.registerARObject(model3d);
     				artoolkit.registerARObject(model3d2);
-    				artoolkit.registerARObject(model3d3);
-    				artoolkit.registerARObject(model3d4);
+    				//artoolkit.registerARObject(model3d3);
+    				//artoolkit.registerARObject(model3d4);
     				artoolkit.registerARObject(model3d5);
     			}
 			} catch (AndARException e) {

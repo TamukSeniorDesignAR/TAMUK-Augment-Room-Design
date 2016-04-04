@@ -25,8 +25,7 @@
         android:label="@string/app_name" >
         <activity
             android:name="com.paar.ch8.ModelChooser"
-            android:label="@string/app_name"
-            android:theme="@android:style/Theme.NoTitleBar" >
+            android:label="@string/app_name" >
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
@@ -52,4 +51,4 @@
         </activity>
     </application>
 
-</manifest>
+</manifest> <!-- android:theme="@android:style/Theme.Material" -->
