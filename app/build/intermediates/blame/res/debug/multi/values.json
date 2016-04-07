@@ -1627,20 +1627,27 @@
                     "startLine": 161,
                     "startColumn": 4,
                     "startOffset": 22604,
-                    "endColumn": 130,
-                    "endOffset": 22730
+                    "endColumn": 59,
+                    "endOffset": 22659
                 },
                 "from": {
-                    "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
+                    "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 0,
+                        "startOffset": 681,
+                        "endColumn": 55,
+                        "endOffset": 736
+                    }
                 }
             },
             {
                 "to": {
                     "startLine": 162,
                     "startColumn": 4,
-                    "startOffset": 22735,
-                    "endColumn": 134,
-                    "endOffset": 22865
+                    "startOffset": 22664,
+                    "endColumn": 130,
+                    "endOffset": 22790
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
@@ -1650,28 +1657,21 @@
                 "to": {
                     "startLine": 163,
                     "startColumn": 4,
-                    "startOffset": 22870,
-                    "endColumn": 52,
-                    "endOffset": 22918
+                    "startOffset": 22795,
+                    "endColumn": 134,
+                    "endOffset": 22925
                 },
                 "from": {
-                    "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 63,
-                        "endColumn": 52,
-                        "endOffset": 111
-                    }
+                    "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 164,
                     "startColumn": 4,
-                    "startOffset": 22923,
-                    "endColumn": 58,
-                    "endOffset": 22977
+                    "startOffset": 22930,
+                    "endColumn": 52,
+                    "endOffset": 22978
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
@@ -1681,9 +1681,9 @@
                 "to": {
                     "startLine": 165,
                     "startColumn": 4,
-                    "startOffset": 22982,
-                    "endColumn": 67,
-                    "endOffset": 23045
+                    "startOffset": 22983,
+                    "endColumn": 58,
+                    "endOffset": 23037
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
@@ -1693,9 +1693,9 @@
                 "to": {
                     "startLine": 166,
                     "startColumn": 4,
-                    "startOffset": 23050,
-                    "endColumn": 54,
-                    "endOffset": 23100
+                    "startOffset": 23042,
+                    "endColumn": 67,
+                    "endOffset": 23105
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
@@ -1705,9 +1705,9 @@
                 "to": {
                     "startLine": 167,
                     "startColumn": 4,
-                    "startOffset": 23105,
-                    "endColumn": 71,
-                    "endOffset": 23172
+                    "startOffset": 23110,
+                    "endColumn": 54,
+                    "endOffset": 23160
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
@@ -1717,9 +1717,9 @@
                 "to": {
                     "startLine": 168,
                     "startColumn": 4,
-                    "startOffset": 23177,
-                    "endColumn": 38,
-                    "endOffset": 23211
+                    "startOffset": 23165,
+                    "endColumn": 71,
+                    "endOffset": 23232
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
@@ -1729,9 +1729,9 @@
                 "to": {
                     "startLine": 169,
                     "startColumn": 4,
-                    "startOffset": 23216,
-                    "endColumn": 48,
-                    "endOffset": 23260
+                    "startOffset": 23237,
+                    "endColumn": 38,
+                    "endOffset": 23271
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
@@ -1741,9 +1741,9 @@
                 "to": {
                     "startLine": 170,
                     "startColumn": 4,
-                    "startOffset": 23265,
-                    "endColumn": 53,
-                    "endOffset": 23314
+                    "startOffset": 23276,
+                    "endColumn": 48,
+                    "endOffset": 23320
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
@@ -1753,9 +1753,9 @@
                 "to": {
                     "startLine": 171,
                     "startColumn": 4,
-                    "startOffset": 23319,
-                    "endColumn": 57,
-                    "endOffset": 23372
+                    "startOffset": 23325,
+                    "endColumn": 53,
+                    "endOffset": 23374
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
@@ -1765,9 +1765,9 @@
                 "to": {
                     "startLine": 172,
                     "startColumn": 4,
-                    "startOffset": 23377,
-                    "endColumn": 126,
-                    "endOffset": 23499
+                    "startOffset": 23379,
+                    "endColumn": 57,
+                    "endOffset": 23432
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
@@ -1777,9 +1777,9 @@
                 "to": {
                     "startLine": 173,
                     "startColumn": 4,
-                    "startOffset": 23504,
-                    "endColumn": 41,
-                    "endOffset": 23541
+                    "startOffset": 23437,
+                    "endColumn": 126,
+                    "endOffset": 23559
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
@@ -1789,9 +1789,9 @@
                 "to": {
                     "startLine": 174,
                     "startColumn": 4,
-                    "startOffset": 23546,
-                    "endColumn": 39,
-                    "endOffset": 23581
+                    "startOffset": 23564,
+                    "endColumn": 41,
+                    "endOffset": 23601
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
@@ -1801,9 +1801,9 @@
                 "to": {
                     "startLine": 175,
                     "startColumn": 4,
-                    "startOffset": 23586,
-                    "endColumn": 72,
-                    "endOffset": 23654
+                    "startOffset": 23606,
+                    "endColumn": 39,
+                    "endOffset": 23641
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
@@ -1813,9 +1813,9 @@
                 "to": {
                     "startLine": 176,
                     "startColumn": 4,
-                    "startOffset": 23659,
-                    "endColumn": 61,
-                    "endOffset": 23716
+                    "startOffset": 23646,
+                    "endColumn": 72,
+                    "endOffset": 23714
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
@@ -1825,9 +1825,9 @@
                 "to": {
                     "startLine": 177,
                     "startColumn": 4,
-                    "startOffset": 23721,
-                    "endColumn": 66,
-                    "endOffset": 23783
+                    "startOffset": 23719,
+                    "endColumn": 61,
+                    "endOffset": 23776
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
@@ -1837,9 +1837,9 @@
                 "to": {
                     "startLine": 178,
                     "startColumn": 4,
-                    "startOffset": 23788,
-                    "endColumn": 61,
-                    "endOffset": 23845
+                    "startOffset": 23781,
+                    "endColumn": 66,
+                    "endOffset": 23843
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
@@ -1849,9 +1849,9 @@
                 "to": {
                     "startLine": 179,
                     "startColumn": 4,
-                    "startOffset": 23850,
-                    "endColumn": 47,
-                    "endOffset": 23893
+                    "startOffset": 23848,
+                    "endColumn": 61,
+                    "endOffset": 23905
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
@@ -1861,9 +1861,9 @@
                 "to": {
                     "startLine": 180,
                     "startColumn": 4,
-                    "startOffset": 23898,
-                    "endColumn": 64,
-                    "endOffset": 23958
+                    "startOffset": 23910,
+                    "endColumn": 47,
+                    "endOffset": 23953
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
@@ -1873,9 +1873,9 @@
                 "to": {
                     "startLine": 181,
                     "startColumn": 4,
-                    "startOffset": 23963,
-                    "endColumn": 71,
-                    "endOffset": 24030
+                    "startOffset": 23958,
+                    "endColumn": 64,
+                    "endOffset": 24018
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
@@ -1885,22 +1885,21 @@
                 "to": {
                     "startLine": 182,
                     "startColumn": 4,
-                    "startOffset": 24035,
-                    "endColumn": 95,
-                    "endOffset": 24126
+                    "startOffset": 24023,
+                    "endColumn": 71,
+                    "endOffset": 24090
                 },
                 "from": {
-                    "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
+                    "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\values\\strings.xml"
                 }
             },
             {
                 "to": {
                     "startLine": 183,
                     "startColumn": 4,
-                    "startOffset": 24131,
-                    "endLine": 186,
-                    "endColumn": 12,
-                    "endOffset": 24407
+                    "startOffset": 24095,
+                    "endColumn": 95,
+                    "endOffset": 24186
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -1908,12 +1907,12 @@
             },
             {
                 "to": {
-                    "startLine": 187,
+                    "startLine": 184,
                     "startColumn": 4,
-                    "startOffset": 24412,
-                    "endLine": 193,
+                    "startOffset": 24191,
+                    "endLine": 187,
                     "endColumn": 12,
-                    "endOffset": 24884
+                    "endOffset": 24467
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -1921,12 +1920,12 @@
             },
             {
                 "to": {
-                    "startLine": 194,
+                    "startLine": 188,
                     "startColumn": 4,
-                    "startOffset": 24889,
-                    "endLine": 197,
+                    "startOffset": 24472,
+                    "endLine": 194,
                     "endColumn": 12,
-                    "endOffset": 25106
+                    "endOffset": 24944
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -1934,12 +1933,12 @@
             },
             {
                 "to": {
-                    "startLine": 198,
+                    "startLine": 195,
                     "startColumn": 4,
-                    "startOffset": 25111,
-                    "endLine": 201,
+                    "startOffset": 24949,
+                    "endLine": 198,
                     "endColumn": 12,
-                    "endOffset": 25328
+                    "endOffset": 25166
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -1947,12 +1946,12 @@
             },
             {
                 "to": {
-                    "startLine": 202,
+                    "startLine": 199,
                     "startColumn": 4,
-                    "startOffset": 25333,
-                    "endLine": 206,
+                    "startOffset": 25171,
+                    "endLine": 202,
                     "endColumn": 12,
-                    "endOffset": 25596
+                    "endOffset": 25388
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -1960,12 +1959,12 @@
             },
             {
                 "to": {
-                    "startLine": 207,
+                    "startLine": 203,
                     "startColumn": 4,
-                    "startOffset": 25601,
-                    "endLine": 210,
+                    "startOffset": 25393,
+                    "endLine": 207,
                     "endColumn": 12,
-                    "endOffset": 25823
+                    "endOffset": 25656
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -1973,12 +1972,12 @@
             },
             {
                 "to": {
-                    "startLine": 211,
+                    "startLine": 208,
                     "startColumn": 4,
-                    "startOffset": 25828,
-                    "endLine": 214,
+                    "startOffset": 25661,
+                    "endLine": 211,
                     "endColumn": 12,
-                    "endOffset": 26053
+                    "endOffset": 25883
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -1986,12 +1985,12 @@
             },
             {
                 "to": {
-                    "startLine": 215,
+                    "startLine": 212,
                     "startColumn": 4,
-                    "startOffset": 26058,
-                    "endLine": 218,
+                    "startOffset": 25888,
+                    "endLine": 215,
                     "endColumn": 12,
-                    "endOffset": 26283
+                    "endOffset": 26113
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -1999,12 +1998,12 @@
             },
             {
                 "to": {
-                    "startLine": 219,
+                    "startLine": 216,
                     "startColumn": 4,
-                    "startOffset": 26288,
-                    "endLine": 222,
+                    "startOffset": 26118,
+                    "endLine": 219,
                     "endColumn": 12,
-                    "endOffset": 26513
+                    "endOffset": 26343
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2012,12 +2011,12 @@
             },
             {
                 "to": {
-                    "startLine": 223,
+                    "startLine": 220,
                     "startColumn": 4,
-                    "startOffset": 26518,
-                    "endLine": 226,
+                    "startOffset": 26348,
+                    "endLine": 223,
                     "endColumn": 12,
-                    "endOffset": 26743
+                    "endOffset": 26573
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2025,12 +2024,12 @@
             },
             {
                 "to": {
-                    "startLine": 227,
+                    "startLine": 224,
                     "startColumn": 4,
-                    "startOffset": 26748,
-                    "endLine": 230,
+                    "startOffset": 26578,
+                    "endLine": 227,
                     "endColumn": 12,
-                    "endOffset": 26970
+                    "endOffset": 26803
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2038,12 +2037,12 @@
             },
             {
                 "to": {
-                    "startLine": 231,
+                    "startLine": 228,
                     "startColumn": 4,
-                    "startOffset": 26975,
-                    "endLine": 234,
+                    "startOffset": 26808,
+                    "endLine": 231,
                     "endColumn": 12,
-                    "endOffset": 27209
+                    "endOffset": 27030
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2051,12 +2050,12 @@
             },
             {
                 "to": {
-                    "startLine": 235,
+                    "startLine": 232,
                     "startColumn": 4,
-                    "startOffset": 27214,
-                    "endLine": 238,
+                    "startOffset": 27035,
+                    "endLine": 235,
                     "endColumn": 12,
-                    "endOffset": 27435
+                    "endOffset": 27269
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2064,12 +2063,12 @@
             },
             {
                 "to": {
-                    "startLine": 239,
+                    "startLine": 236,
                     "startColumn": 4,
-                    "startOffset": 27440,
-                    "endLine": 242,
+                    "startOffset": 27274,
+                    "endLine": 239,
                     "endColumn": 12,
-                    "endOffset": 27680
+                    "endOffset": 27495
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2077,12 +2076,12 @@
             },
             {
                 "to": {
-                    "startLine": 243,
+                    "startLine": 240,
                     "startColumn": 4,
-                    "startOffset": 27685,
-                    "endLine": 244,
+                    "startOffset": 27500,
+                    "endLine": 243,
                     "endColumn": 12,
-                    "endOffset": 27810
+                    "endOffset": 27740
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2090,12 +2089,12 @@
             },
             {
                 "to": {
-                    "startLine": 245,
+                    "startLine": 244,
                     "startColumn": 4,
-                    "startOffset": 27815,
-                    "endLine": 246,
+                    "startOffset": 27745,
+                    "endLine": 245,
                     "endColumn": 12,
-                    "endOffset": 27940
+                    "endOffset": 27870
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2103,12 +2102,12 @@
             },
             {
                 "to": {
-                    "startLine": 247,
+                    "startLine": 246,
                     "startColumn": 4,
-                    "startOffset": 27945,
-                    "endLine": 250,
+                    "startOffset": 27875,
+                    "endLine": 247,
                     "endColumn": 12,
-                    "endOffset": 28170
+                    "endOffset": 28000
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2116,12 +2115,12 @@
             },
             {
                 "to": {
-                    "startLine": 251,
+                    "startLine": 248,
                     "startColumn": 4,
-                    "startOffset": 28175,
-                    "endLine": 254,
+                    "startOffset": 28005,
+                    "endLine": 251,
                     "endColumn": 12,
-                    "endOffset": 28418
+                    "endOffset": 28230
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2129,12 +2128,12 @@
             },
             {
                 "to": {
-                    "startLine": 255,
+                    "startLine": 252,
                     "startColumn": 4,
-                    "startOffset": 28423,
-                    "endLine": 258,
+                    "startOffset": 28235,
+                    "endLine": 255,
                     "endColumn": 12,
-                    "endOffset": 28637
+                    "endOffset": 28478
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2142,12 +2141,12 @@
             },
             {
                 "to": {
-                    "startLine": 259,
+                    "startLine": 256,
                     "startColumn": 4,
-                    "startOffset": 28642,
-                    "endLine": 263,
+                    "startOffset": 28483,
+                    "endLine": 259,
                     "endColumn": 12,
-                    "endOffset": 28920
+                    "endOffset": 28697
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2155,12 +2154,12 @@
             },
             {
                 "to": {
-                    "startLine": 264,
+                    "startLine": 260,
                     "startColumn": 4,
-                    "startOffset": 28925,
-                    "endLine": 267,
+                    "startOffset": 28702,
+                    "endLine": 264,
                     "endColumn": 12,
-                    "endOffset": 29128
+                    "endOffset": 28980
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2168,12 +2167,12 @@
             },
             {
                 "to": {
-                    "startLine": 268,
+                    "startLine": 265,
                     "startColumn": 4,
-                    "startOffset": 29133,
-                    "endLine": 270,
+                    "startOffset": 28985,
+                    "endLine": 268,
                     "endColumn": 12,
-                    "endOffset": 29259
+                    "endOffset": 29188
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2181,12 +2180,12 @@
             },
             {
                 "to": {
-                    "startLine": 271,
+                    "startLine": 269,
                     "startColumn": 4,
-                    "startOffset": 29264,
-                    "endLine": 274,
+                    "startOffset": 29193,
+                    "endLine": 271,
                     "endColumn": 12,
-                    "endOffset": 29486
+                    "endOffset": 29319
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2194,12 +2193,12 @@
             },
             {
                 "to": {
-                    "startLine": 275,
+                    "startLine": 272,
                     "startColumn": 4,
-                    "startOffset": 29491,
-                    "endLine": 278,
+                    "startOffset": 29324,
+                    "endLine": 275,
                     "endColumn": 12,
-                    "endOffset": 29732
+                    "endOffset": 29546
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2207,12 +2206,12 @@
             },
             {
                 "to": {
-                    "startLine": 279,
+                    "startLine": 276,
                     "startColumn": 4,
-                    "startOffset": 29737,
-                    "endLine": 282,
+                    "startOffset": 29551,
+                    "endLine": 279,
                     "endColumn": 12,
-                    "endOffset": 29957
+                    "endOffset": 29792
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2220,12 +2219,12 @@
             },
             {
                 "to": {
-                    "startLine": 283,
+                    "startLine": 280,
                     "startColumn": 4,
-                    "startOffset": 29962,
-                    "endLine": 286,
+                    "startOffset": 29797,
+                    "endLine": 283,
                     "endColumn": 12,
-                    "endOffset": 30206
+                    "endOffset": 30017
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2233,12 +2232,12 @@
             },
             {
                 "to": {
-                    "startLine": 287,
+                    "startLine": 284,
                     "startColumn": 4,
-                    "startOffset": 30211,
-                    "endLine": 290,
+                    "startOffset": 30022,
+                    "endLine": 287,
                     "endColumn": 12,
-                    "endOffset": 30427
+                    "endOffset": 30266
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2246,12 +2245,12 @@
             },
             {
                 "to": {
-                    "startLine": 291,
+                    "startLine": 288,
                     "startColumn": 4,
-                    "startOffset": 30432,
-                    "endLine": 294,
+                    "startOffset": 30271,
+                    "endLine": 291,
                     "endColumn": 12,
-                    "endOffset": 30672
+                    "endOffset": 30487
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2259,12 +2258,12 @@
             },
             {
                 "to": {
-                    "startLine": 295,
+                    "startLine": 292,
                     "startColumn": 4,
-                    "startOffset": 30677,
-                    "endLine": 299,
+                    "startOffset": 30492,
+                    "endLine": 295,
                     "endColumn": 12,
-                    "endOffset": 30967
+                    "endOffset": 30732
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2272,12 +2271,12 @@
             },
             {
                 "to": {
-                    "startLine": 300,
+                    "startLine": 296,
                     "startColumn": 4,
-                    "startOffset": 30972,
-                    "endLine": 302,
+                    "startOffset": 30737,
+                    "endLine": 300,
                     "endColumn": 12,
-                    "endOffset": 31189
+                    "endOffset": 31027
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2285,12 +2284,12 @@
             },
             {
                 "to": {
-                    "startLine": 303,
+                    "startLine": 301,
                     "startColumn": 4,
-                    "startOffset": 31194,
-                    "endLine": 305,
+                    "startOffset": 31032,
+                    "endLine": 303,
                     "endColumn": 12,
-                    "endOffset": 31427
+                    "endOffset": 31249
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2298,12 +2297,12 @@
             },
             {
                 "to": {
-                    "startLine": 306,
+                    "startLine": 304,
                     "startColumn": 4,
-                    "startOffset": 31432,
-                    "endLine": 308,
+                    "startOffset": 31254,
+                    "endLine": 306,
                     "endColumn": 12,
-                    "endOffset": 31641
+                    "endOffset": 31487
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2311,12 +2310,12 @@
             },
             {
                 "to": {
-                    "startLine": 309,
+                    "startLine": 307,
                     "startColumn": 4,
-                    "startOffset": 31646,
-                    "endLine": 311,
+                    "startOffset": 31492,
+                    "endLine": 309,
                     "endColumn": 12,
-                    "endOffset": 31871
+                    "endOffset": 31701
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2324,12 +2323,12 @@
             },
             {
                 "to": {
-                    "startLine": 312,
+                    "startLine": 310,
                     "startColumn": 4,
-                    "startOffset": 31876,
-                    "endLine": 314,
+                    "startOffset": 31706,
+                    "endLine": 312,
                     "endColumn": 12,
-                    "endOffset": 32094
+                    "endOffset": 31931
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2337,12 +2336,12 @@
             },
             {
                 "to": {
-                    "startLine": 315,
+                    "startLine": 313,
                     "startColumn": 4,
-                    "startOffset": 32099,
-                    "endLine": 317,
+                    "startOffset": 31936,
+                    "endLine": 315,
                     "endColumn": 12,
-                    "endOffset": 32309
+                    "endOffset": 32154
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2350,12 +2349,12 @@
             },
             {
                 "to": {
-                    "startLine": 318,
+                    "startLine": 316,
                     "startColumn": 4,
-                    "startOffset": 32314,
-                    "endLine": 320,
+                    "startOffset": 32159,
+                    "endLine": 318,
                     "endColumn": 12,
-                    "endOffset": 32517
+                    "endOffset": 32369
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2363,12 +2362,12 @@
             },
             {
                 "to": {
-                    "startLine": 321,
+                    "startLine": 319,
                     "startColumn": 4,
-                    "startOffset": 32522,
-                    "endLine": 322,
+                    "startOffset": 32374,
+                    "endLine": 321,
                     "endColumn": 12,
-                    "endOffset": 32641
+                    "endOffset": 32577
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2376,12 +2375,12 @@
             },
             {
                 "to": {
-                    "startLine": 323,
+                    "startLine": 322,
                     "startColumn": 4,
-                    "startOffset": 32646,
-                    "endLine": 324,
+                    "startOffset": 32582,
+                    "endLine": 323,
                     "endColumn": 12,
-                    "endOffset": 32765
+                    "endOffset": 32701
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2389,11 +2388,12 @@
             },
             {
                 "to": {
-                    "startLine": 325,
+                    "startLine": 324,
                     "startColumn": 4,
-                    "startOffset": 32770,
-                    "endColumn": 104,
-                    "endOffset": 32870
+                    "startOffset": 32706,
+                    "endLine": 325,
+                    "endColumn": 12,
+                    "endOffset": 32825
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2403,9 +2403,9 @@
                 "to": {
                     "startLine": 326,
                     "startColumn": 4,
-                    "startOffset": 32875,
-                    "endColumn": 116,
-                    "endOffset": 32987
+                    "startOffset": 32830,
+                    "endColumn": 104,
+                    "endOffset": 32930
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2415,10 +2415,9 @@
                 "to": {
                     "startLine": 327,
                     "startColumn": 4,
-                    "startOffset": 32992,
-                    "endLine": 329,
-                    "endColumn": 12,
-                    "endOffset": 33201
+                    "startOffset": 32935,
+                    "endColumn": 116,
+                    "endOffset": 33047
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2426,12 +2425,12 @@
             },
             {
                 "to": {
-                    "startLine": 330,
+                    "startLine": 328,
                     "startColumn": 4,
-                    "startOffset": 33206,
-                    "endLine": 331,
+                    "startOffset": 33052,
+                    "endLine": 330,
                     "endColumn": 12,
-                    "endOffset": 33347
+                    "endOffset": 33261
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2439,12 +2438,12 @@
             },
             {
                 "to": {
-                    "startLine": 332,
+                    "startLine": 331,
                     "startColumn": 4,
-                    "startOffset": 33352,
-                    "endLine": 333,
+                    "startOffset": 33266,
+                    "endLine": 332,
                     "endColumn": 12,
-                    "endOffset": 33487
+                    "endOffset": 33407
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2452,12 +2451,12 @@
             },
             {
                 "to": {
-                    "startLine": 334,
+                    "startLine": 333,
                     "startColumn": 4,
-                    "startOffset": 33492,
-                    "endLine": 335,
+                    "startOffset": 33412,
+                    "endLine": 334,
                     "endColumn": 12,
-                    "endOffset": 33573
+                    "endOffset": 33547
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2465,12 +2464,12 @@
             },
             {
                 "to": {
-                    "startLine": 336,
+                    "startLine": 335,
                     "startColumn": 4,
-                    "startOffset": 33578,
-                    "endLine": 340,
+                    "startOffset": 33552,
+                    "endLine": 336,
                     "endColumn": 12,
-                    "endOffset": 33921
+                    "endOffset": 33633
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2478,11 +2477,12 @@
             },
             {
                 "to": {
-                    "startLine": 341,
+                    "startLine": 337,
                     "startColumn": 4,
-                    "startOffset": 33926,
-                    "endColumn": 87,
-                    "endOffset": 34009
+                    "startOffset": 33638,
+                    "endLine": 341,
+                    "endColumn": 12,
+                    "endOffset": 33981
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2492,10 +2492,9 @@
                 "to": {
                     "startLine": 342,
                     "startColumn": 4,
-                    "startOffset": 34014,
-                    "endLine": 347,
-                    "endColumn": 12,
-                    "endOffset": 34411
+                    "startOffset": 33986,
+                    "endColumn": 87,
+                    "endOffset": 34069
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2503,11 +2502,12 @@
             },
             {
                 "to": {
-                    "startLine": 348,
+                    "startLine": 343,
                     "startColumn": 4,
-                    "startOffset": 34416,
-                    "endColumn": 81,
-                    "endOffset": 34493
+                    "startOffset": 34074,
+                    "endLine": 348,
+                    "endColumn": 12,
+                    "endOffset": 34471
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2517,10 +2517,9 @@
                 "to": {
                     "startLine": 349,
                     "startColumn": 4,
-                    "startOffset": 34498,
-                    "endLine": 350,
-                    "endColumn": 12,
-                    "endOffset": 34591
+                    "startOffset": 34476,
+                    "endColumn": 81,
+                    "endOffset": 34553
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2528,12 +2527,12 @@
             },
             {
                 "to": {
-                    "startLine": 351,
+                    "startLine": 350,
                     "startColumn": 4,
-                    "startOffset": 34596,
-                    "endLine": 361,
+                    "startOffset": 34558,
+                    "endLine": 351,
                     "endColumn": 12,
-                    "endOffset": 35208
+                    "endOffset": 34651
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2541,11 +2540,12 @@
             },
             {
                 "to": {
-                    "startLine": 362,
+                    "startLine": 352,
                     "startColumn": 4,
-                    "startOffset": 35213,
-                    "endColumn": 90,
-                    "endOffset": 35299
+                    "startOffset": 34656,
+                    "endLine": 362,
+                    "endColumn": 12,
+                    "endOffset": 35268
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2555,10 +2555,9 @@
                 "to": {
                     "startLine": 363,
                     "startColumn": 4,
-                    "startOffset": 35304,
-                    "endLine": 368,
-                    "endColumn": 12,
-                    "endOffset": 35707
+                    "startOffset": 35273,
+                    "endColumn": 90,
+                    "endOffset": 35359
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2566,11 +2565,12 @@
             },
             {
                 "to": {
-                    "startLine": 369,
+                    "startLine": 364,
                     "startColumn": 4,
-                    "startOffset": 35712,
-                    "endColumn": 93,
-                    "endOffset": 35801
+                    "startOffset": 35364,
+                    "endLine": 369,
+                    "endColumn": 12,
+                    "endOffset": 35767
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2580,9 +2580,9 @@
                 "to": {
                     "startLine": 370,
                     "startColumn": 4,
-                    "startOffset": 35806,
-                    "endColumn": 57,
-                    "endOffset": 35859
+                    "startOffset": 35772,
+                    "endColumn": 93,
+                    "endOffset": 35861
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2592,10 +2592,9 @@
                 "to": {
                     "startLine": 371,
                     "startColumn": 4,
-                    "startOffset": 35864,
-                    "endLine": 373,
-                    "endColumn": 12,
-                    "endOffset": 36007
+                    "startOffset": 35866,
+                    "endColumn": 57,
+                    "endOffset": 35919
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2603,12 +2602,12 @@
             },
             {
                 "to": {
-                    "startLine": 374,
+                    "startLine": 372,
                     "startColumn": 4,
-                    "startOffset": 36012,
-                    "endLine": 408,
+                    "startOffset": 35924,
+                    "endLine": 374,
                     "endColumn": 12,
-                    "endOffset": 38502
+                    "endOffset": 36067
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2616,12 +2615,12 @@
             },
             {
                 "to": {
-                    "startLine": 409,
+                    "startLine": 375,
                     "startColumn": 4,
-                    "startOffset": 38507,
-                    "endLine": 411,
+                    "startOffset": 36072,
+                    "endLine": 409,
                     "endColumn": 12,
-                    "endOffset": 38655
+                    "endOffset": 38562
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2629,12 +2628,12 @@
             },
             {
                 "to": {
-                    "startLine": 412,
+                    "startLine": 410,
                     "startColumn": 4,
-                    "startOffset": 38660,
-                    "endLine": 446,
+                    "startOffset": 38567,
+                    "endLine": 412,
                     "endColumn": 12,
-                    "endOffset": 41263
+                    "endOffset": 38715
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2642,12 +2641,12 @@
             },
             {
                 "to": {
-                    "startLine": 447,
+                    "startLine": 413,
                     "startColumn": 4,
-                    "startOffset": 41268,
-                    "endLine": 561,
+                    "startOffset": 38720,
+                    "endLine": 447,
                     "endColumn": 12,
-                    "endOffset": 48577
+                    "endOffset": 41323
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2655,12 +2654,12 @@
             },
             {
                 "to": {
-                    "startLine": 562,
+                    "startLine": 448,
                     "startColumn": 4,
-                    "startOffset": 48582,
-                    "endLine": 672,
+                    "startOffset": 41328,
+                    "endLine": 562,
                     "endColumn": 12,
-                    "endOffset": 55769
+                    "endOffset": 48637
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2668,12 +2667,12 @@
             },
             {
                 "to": {
-                    "startLine": 673,
+                    "startLine": 563,
                     "startColumn": 4,
-                    "startOffset": 55774,
-                    "endLine": 787,
+                    "startOffset": 48642,
+                    "endLine": 673,
                     "endColumn": 12,
-                    "endOffset": 63174
+                    "endOffset": 55829
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2681,12 +2680,12 @@
             },
             {
                 "to": {
-                    "startLine": 788,
+                    "startLine": 674,
                     "startColumn": 4,
-                    "startOffset": 63179,
-                    "endLine": 806,
+                    "startOffset": 55834,
+                    "endLine": 788,
                     "endColumn": 12,
-                    "endOffset": 64117
+                    "endOffset": 63234
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2694,12 +2693,12 @@
             },
             {
                 "to": {
-                    "startLine": 807,
+                    "startLine": 789,
                     "startColumn": 4,
-                    "startOffset": 64122,
-                    "endLine": 811,
+                    "startOffset": 63239,
+                    "endLine": 807,
                     "endColumn": 12,
-                    "endOffset": 64373
+                    "endOffset": 64177
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2707,12 +2706,12 @@
             },
             {
                 "to": {
-                    "startLine": 812,
+                    "startLine": 808,
                     "startColumn": 4,
-                    "startOffset": 64378,
-                    "endLine": 816,
+                    "startOffset": 64182,
+                    "endLine": 812,
                     "endColumn": 12,
-                    "endOffset": 64609
+                    "endOffset": 64433
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2720,12 +2719,12 @@
             },
             {
                 "to": {
-                    "startLine": 817,
+                    "startLine": 813,
                     "startColumn": 4,
-                    "startOffset": 64614,
-                    "endLine": 826,
+                    "startOffset": 64438,
+                    "endLine": 817,
                     "endColumn": 12,
-                    "endOffset": 65156
+                    "endOffset": 64669
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2733,12 +2732,12 @@
             },
             {
                 "to": {
-                    "startLine": 827,
+                    "startLine": 818,
                     "startColumn": 4,
-                    "startOffset": 65161,
-                    "endLine": 835,
+                    "startOffset": 64674,
+                    "endLine": 827,
                     "endColumn": 12,
-                    "endOffset": 65650
+                    "endOffset": 65216
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2746,12 +2745,12 @@
             },
             {
                 "to": {
-                    "startLine": 836,
+                    "startLine": 828,
                     "startColumn": 4,
-                    "startOffset": 65655,
-                    "endLine": 846,
+                    "startOffset": 65221,
+                    "endLine": 836,
                     "endColumn": 12,
-                    "endOffset": 66323
+                    "endOffset": 65710
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2759,12 +2758,12 @@
             },
             {
                 "to": {
-                    "startLine": 847,
+                    "startLine": 837,
                     "startColumn": 4,
-                    "startOffset": 66328,
-                    "endLine": 849,
+                    "startOffset": 65715,
+                    "endLine": 847,
                     "endColumn": 12,
-                    "endOffset": 66488
+                    "endOffset": 66383
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2772,12 +2771,12 @@
             },
             {
                 "to": {
-                    "startLine": 850,
+                    "startLine": 848,
                     "startColumn": 4,
-                    "startOffset": 66493,
-                    "endLine": 856,
+                    "startOffset": 66388,
+                    "endLine": 850,
                     "endColumn": 12,
-                    "endOffset": 67016
+                    "endOffset": 66548
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2785,12 +2784,12 @@
             },
             {
                 "to": {
-                    "startLine": 857,
+                    "startLine": 851,
                     "startColumn": 4,
-                    "startOffset": 67021,
-                    "endLine": 864,
+                    "startOffset": 66553,
+                    "endLine": 857,
                     "endColumn": 12,
-                    "endOffset": 67580
+                    "endOffset": 67076
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2798,12 +2797,12 @@
             },
             {
                 "to": {
-                    "startLine": 865,
+                    "startLine": 858,
                     "startColumn": 4,
-                    "startOffset": 67585,
-                    "endLine": 871,
+                    "startOffset": 67081,
+                    "endLine": 865,
                     "endColumn": 12,
-                    "endOffset": 67955
+                    "endOffset": 67640
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2811,12 +2810,12 @@
             },
             {
                 "to": {
-                    "startLine": 872,
+                    "startLine": 866,
                     "startColumn": 4,
-                    "startOffset": 67960,
-                    "endLine": 878,
+                    "startOffset": 67645,
+                    "endLine": 872,
                     "endColumn": 12,
-                    "endOffset": 68488
+                    "endOffset": 68015
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2824,12 +2823,12 @@
             },
             {
                 "to": {
-                    "startLine": 879,
+                    "startLine": 873,
                     "startColumn": 4,
-                    "startOffset": 68493,
-                    "endLine": 887,
+                    "startOffset": 68020,
+                    "endLine": 879,
                     "endColumn": 12,
-                    "endOffset": 69026
+                    "endOffset": 68548
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2837,12 +2836,12 @@
             },
             {
                 "to": {
-                    "startLine": 888,
+                    "startLine": 880,
                     "startColumn": 4,
-                    "startOffset": 69031,
-                    "endLine": 891,
+                    "startOffset": 68553,
+                    "endLine": 888,
                     "endColumn": 12,
-                    "endOffset": 69196
+                    "endOffset": 69086
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2850,12 +2849,12 @@
             },
             {
                 "to": {
-                    "startLine": 892,
+                    "startLine": 889,
                     "startColumn": 4,
-                    "startOffset": 69201,
-                    "endLine": 898,
+                    "startOffset": 69091,
+                    "endLine": 892,
                     "endColumn": 12,
-                    "endOffset": 69687
+                    "endOffset": 69256
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2863,12 +2862,12 @@
             },
             {
                 "to": {
-                    "startLine": 899,
+                    "startLine": 893,
                     "startColumn": 4,
-                    "startOffset": 69692,
-                    "endLine": 903,
+                    "startOffset": 69261,
+                    "endLine": 899,
                     "endColumn": 12,
-                    "endOffset": 69949
+                    "endOffset": 69747
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2876,12 +2875,12 @@
             },
             {
                 "to": {
-                    "startLine": 904,
+                    "startLine": 900,
                     "startColumn": 4,
-                    "startOffset": 69954,
-                    "endLine": 910,
+                    "startOffset": 69752,
+                    "endLine": 904,
                     "endColumn": 12,
-                    "endOffset": 70299
+                    "endOffset": 70009
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2889,12 +2888,12 @@
             },
             {
                 "to": {
-                    "startLine": 911,
+                    "startLine": 905,
                     "startColumn": 4,
-                    "startOffset": 70304,
-                    "endLine": 916,
+                    "startOffset": 70014,
+                    "endLine": 911,
                     "endColumn": 12,
-                    "endOffset": 70652
+                    "endOffset": 70359
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2902,12 +2901,12 @@
             },
             {
                 "to": {
-                    "startLine": 917,
+                    "startLine": 912,
                     "startColumn": 4,
-                    "startOffset": 70657,
-                    "endLine": 921,
+                    "startOffset": 70364,
+                    "endLine": 917,
                     "endColumn": 12,
-                    "endOffset": 70979
+                    "endOffset": 70712
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2915,12 +2914,12 @@
             },
             {
                 "to": {
-                    "startLine": 922,
+                    "startLine": 918,
                     "startColumn": 4,
-                    "startOffset": 70984,
-                    "endLine": 925,
+                    "startOffset": 70717,
+                    "endLine": 922,
                     "endColumn": 12,
-                    "endOffset": 71285
+                    "endOffset": 71039
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2928,12 +2927,12 @@
             },
             {
                 "to": {
-                    "startLine": 926,
+                    "startLine": 923,
                     "startColumn": 4,
-                    "startOffset": 71290,
-                    "endLine": 930,
+                    "startOffset": 71044,
+                    "endLine": 926,
                     "endColumn": 12,
-                    "endOffset": 71547
+                    "endOffset": 71345
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2941,12 +2940,12 @@
             },
             {
                 "to": {
-                    "startLine": 931,
+                    "startLine": 927,
                     "startColumn": 4,
-                    "startOffset": 71552,
-                    "endLine": 932,
+                    "startOffset": 71350,
+                    "endLine": 931,
                     "endColumn": 12,
-                    "endOffset": 71672
+                    "endOffset": 71607
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2954,12 +2953,12 @@
             },
             {
                 "to": {
-                    "startLine": 933,
+                    "startLine": 932,
                     "startColumn": 4,
-                    "startOffset": 71677,
-                    "endLine": 934,
+                    "startOffset": 71612,
+                    "endLine": 933,
                     "endColumn": 12,
-                    "endOffset": 71799
+                    "endOffset": 71732
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2967,12 +2966,12 @@
             },
             {
                 "to": {
-                    "startLine": 935,
+                    "startLine": 934,
                     "startColumn": 4,
-                    "startOffset": 71804,
-                    "endLine": 937,
+                    "startOffset": 71737,
+                    "endLine": 935,
                     "endColumn": 12,
-                    "endOffset": 72038
+                    "endOffset": 71859
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2980,12 +2979,12 @@
             },
             {
                 "to": {
-                    "startLine": 938,
+                    "startLine": 936,
                     "startColumn": 4,
-                    "startOffset": 72043,
-                    "endLine": 940,
+                    "startOffset": 71864,
+                    "endLine": 938,
                     "endColumn": 12,
-                    "endOffset": 72249
+                    "endOffset": 72098
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -2993,12 +2992,12 @@
             },
             {
                 "to": {
-                    "startLine": 941,
+                    "startLine": 939,
                     "startColumn": 4,
-                    "startOffset": 72254,
-                    "endLine": 942,
+                    "startOffset": 72103,
+                    "endLine": 941,
                     "endColumn": 12,
-                    "endOffset": 72368
+                    "endOffset": 72309
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3006,12 +3005,12 @@
             },
             {
                 "to": {
-                    "startLine": 943,
+                    "startLine": 942,
                     "startColumn": 4,
-                    "startOffset": 72373,
-                    "endLine": 946,
+                    "startOffset": 72314,
+                    "endLine": 943,
                     "endColumn": 12,
-                    "endOffset": 72561
+                    "endOffset": 72428
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3019,12 +3018,12 @@
             },
             {
                 "to": {
-                    "startLine": 947,
+                    "startLine": 944,
                     "startColumn": 4,
-                    "startOffset": 72566,
-                    "endLine": 953,
+                    "startOffset": 72433,
+                    "endLine": 947,
                     "endColumn": 12,
-                    "endOffset": 73016
+                    "endOffset": 72621
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3032,12 +3031,12 @@
             },
             {
                 "to": {
-                    "startLine": 954,
+                    "startLine": 948,
                     "startColumn": 4,
-                    "startOffset": 73021,
-                    "endLine": 957,
+                    "startOffset": 72626,
+                    "endLine": 954,
                     "endColumn": 12,
-                    "endOffset": 73256
+                    "endOffset": 73076
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3045,12 +3044,12 @@
             },
             {
                 "to": {
-                    "startLine": 958,
+                    "startLine": 955,
                     "startColumn": 4,
-                    "startOffset": 73261,
-                    "endLine": 961,
+                    "startOffset": 73081,
+                    "endLine": 958,
                     "endColumn": 12,
-                    "endOffset": 73515
+                    "endOffset": 73316
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3058,12 +3057,12 @@
             },
             {
                 "to": {
-                    "startLine": 962,
+                    "startLine": 959,
                     "startColumn": 4,
-                    "startOffset": 73520,
-                    "endLine": 963,
+                    "startOffset": 73321,
+                    "endLine": 962,
                     "endColumn": 12,
-                    "endOffset": 73628
+                    "endOffset": 73575
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3071,12 +3070,12 @@
             },
             {
                 "to": {
-                    "startLine": 964,
+                    "startLine": 963,
                     "startColumn": 4,
-                    "startOffset": 73633,
-                    "endLine": 967,
+                    "startOffset": 73580,
+                    "endLine": 964,
                     "endColumn": 12,
-                    "endOffset": 73815
+                    "endOffset": 73688
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3084,12 +3083,12 @@
             },
             {
                 "to": {
-                    "startLine": 968,
+                    "startLine": 965,
                     "startColumn": 4,
-                    "startOffset": 73820,
-                    "endLine": 969,
+                    "startOffset": 73693,
+                    "endLine": 968,
                     "endColumn": 12,
-                    "endOffset": 73917
+                    "endOffset": 73875
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3097,12 +3096,12 @@
             },
             {
                 "to": {
-                    "startLine": 970,
+                    "startLine": 969,
                     "startColumn": 4,
-                    "startOffset": 73922,
-                    "endLine": 975,
+                    "startOffset": 73880,
+                    "endLine": 970,
                     "endColumn": 12,
-                    "endOffset": 74361
+                    "endOffset": 73977
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3110,12 +3109,12 @@
             },
             {
                 "to": {
-                    "startLine": 976,
+                    "startLine": 971,
                     "startColumn": 4,
-                    "startOffset": 74366,
-                    "endLine": 977,
+                    "startOffset": 73982,
+                    "endLine": 976,
                     "endColumn": 12,
-                    "endOffset": 74485
+                    "endOffset": 74421
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3123,12 +3122,12 @@
             },
             {
                 "to": {
-                    "startLine": 978,
+                    "startLine": 977,
                     "startColumn": 4,
-                    "startOffset": 74490,
-                    "endLine": 981,
+                    "startOffset": 74426,
+                    "endLine": 978,
                     "endColumn": 12,
-                    "endOffset": 74770
+                    "endOffset": 74545
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3136,12 +3135,12 @@
             },
             {
                 "to": {
-                    "startLine": 982,
+                    "startLine": 979,
                     "startColumn": 4,
-                    "startOffset": 74775,
-                    "endLine": 992,
+                    "startOffset": 74550,
+                    "endLine": 982,
                     "endColumn": 12,
-                    "endOffset": 75575
+                    "endOffset": 74830
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3149,12 +3148,12 @@
             },
             {
                 "to": {
-                    "startLine": 993,
+                    "startLine": 983,
                     "startColumn": 4,
-                    "startOffset": 75580,
-                    "endLine": 997,
+                    "startOffset": 74835,
+                    "endLine": 993,
                     "endColumn": 12,
-                    "endOffset": 75905
+                    "endOffset": 75635
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3162,12 +3161,12 @@
             },
             {
                 "to": {
-                    "startLine": 998,
+                    "startLine": 994,
                     "startColumn": 4,
-                    "startOffset": 75910,
-                    "endLine": 1012,
+                    "startOffset": 75640,
+                    "endLine": 998,
                     "endColumn": 12,
-                    "endOffset": 76825
+                    "endOffset": 75965
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3175,12 +3174,12 @@
             },
             {
                 "to": {
-                    "startLine": 1013,
+                    "startLine": 999,
                     "startColumn": 4,
-                    "startOffset": 76830,
-                    "endLine": 1015,
+                    "startOffset": 75970,
+                    "endLine": 1013,
                     "endColumn": 12,
-                    "endOffset": 76997
+                    "endOffset": 76885
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3188,12 +3187,12 @@
             },
             {
                 "to": {
-                    "startLine": 1016,
+                    "startLine": 1014,
                     "startColumn": 4,
-                    "startOffset": 77002,
-                    "endLine": 1020,
+                    "startOffset": 76890,
+                    "endLine": 1016,
                     "endColumn": 12,
-                    "endOffset": 77333
+                    "endOffset": 77057
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3201,12 +3200,12 @@
             },
             {
                 "to": {
-                    "startLine": 1021,
+                    "startLine": 1017,
                     "startColumn": 4,
-                    "startOffset": 77338,
-                    "endLine": 1030,
+                    "startOffset": 77062,
+                    "endLine": 1021,
                     "endColumn": 12,
-                    "endOffset": 77999
+                    "endOffset": 77393
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3214,12 +3213,12 @@
             },
             {
                 "to": {
-                    "startLine": 1031,
+                    "startLine": 1022,
                     "startColumn": 4,
-                    "startOffset": 78004,
-                    "endLine": 1035,
+                    "startOffset": 77398,
+                    "endLine": 1031,
                     "endColumn": 12,
-                    "endOffset": 78284
+                    "endOffset": 78059
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3227,12 +3226,12 @@
             },
             {
                 "to": {
-                    "startLine": 1036,
+                    "startLine": 1032,
                     "startColumn": 4,
-                    "startOffset": 78289,
-                    "endLine": 1080,
+                    "startOffset": 78064,
+                    "endLine": 1036,
                     "endColumn": 12,
-                    "endOffset": 81564
+                    "endOffset": 78344
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3240,12 +3239,12 @@
             },
             {
                 "to": {
-                    "startLine": 1081,
+                    "startLine": 1037,
                     "startColumn": 4,
-                    "startOffset": 81569,
-                    "endLine": 1125,
+                    "startOffset": 78349,
+                    "endLine": 1081,
                     "endColumn": 12,
-                    "endOffset": 84858
+                    "endOffset": 81624
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3253,12 +3252,12 @@
             },
             {
                 "to": {
-                    "startLine": 1126,
+                    "startLine": 1082,
                     "startColumn": 4,
-                    "startOffset": 84863,
-                    "endLine": 1171,
+                    "startOffset": 81629,
+                    "endLine": 1126,
                     "endColumn": 12,
-                    "endOffset": 88278
+                    "endOffset": 84918
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3266,11 +3265,12 @@
             },
             {
                 "to": {
-                    "startLine": 1172,
+                    "startLine": 1127,
                     "startColumn": 4,
-                    "startOffset": 88283,
-                    "endColumn": 86,
-                    "endOffset": 88365
+                    "startOffset": 84923,
+                    "endLine": 1172,
+                    "endColumn": 12,
+                    "endOffset": 88338
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3280,10 +3280,9 @@
                 "to": {
                     "startLine": 1173,
                     "startColumn": 4,
-                    "startOffset": 88370,
-                    "endLine": 1176,
-                    "endColumn": 12,
-                    "endOffset": 88594
+                    "startOffset": 88343,
+                    "endColumn": 86,
+                    "endOffset": 88425
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3291,12 +3290,12 @@
             },
             {
                 "to": {
-                    "startLine": 1177,
+                    "startLine": 1174,
                     "startColumn": 4,
-                    "startOffset": 88599,
-                    "endLine": 1180,
+                    "startOffset": 88430,
+                    "endLine": 1177,
                     "endColumn": 12,
-                    "endOffset": 88843
+                    "endOffset": 88654
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3304,12 +3303,12 @@
             },
             {
                 "to": {
-                    "startLine": 1181,
+                    "startLine": 1178,
                     "startColumn": 4,
-                    "startOffset": 88848,
-                    "endLine": 1184,
+                    "startOffset": 88659,
+                    "endLine": 1181,
                     "endColumn": 12,
-                    "endOffset": 89084
+                    "endOffset": 88903
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3317,12 +3316,12 @@
             },
             {
                 "to": {
-                    "startLine": 1185,
+                    "startLine": 1182,
                     "startColumn": 4,
-                    "startOffset": 89089,
-                    "endLine": 1187,
+                    "startOffset": 88908,
+                    "endLine": 1185,
                     "endColumn": 12,
-                    "endOffset": 89236
+                    "endOffset": 89144
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3330,12 +3329,12 @@
             },
             {
                 "to": {
-                    "startLine": 1188,
+                    "startLine": 1186,
                     "startColumn": 4,
-                    "startOffset": 89241,
-                    "endLine": 1190,
+                    "startOffset": 89149,
+                    "endLine": 1188,
                     "endColumn": 12,
-                    "endOffset": 89407
+                    "endOffset": 89296
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3343,12 +3342,12 @@
             },
             {
                 "to": {
-                    "startLine": 1191,
+                    "startLine": 1189,
                     "startColumn": 4,
-                    "startOffset": 89412,
-                    "endLine": 1193,
+                    "startOffset": 89301,
+                    "endLine": 1191,
                     "endColumn": 12,
-                    "endOffset": 89574
+                    "endOffset": 89467
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3356,12 +3355,12 @@
             },
             {
                 "to": {
-                    "startLine": 1194,
+                    "startLine": 1192,
                     "startColumn": 4,
-                    "startOffset": 89579,
-                    "endLine": 1197,
+                    "startOffset": 89472,
+                    "endLine": 1194,
                     "endColumn": 12,
-                    "endOffset": 89817
+                    "endOffset": 89634
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3369,12 +3368,12 @@
             },
             {
                 "to": {
-                    "startLine": 1198,
+                    "startLine": 1195,
                     "startColumn": 4,
-                    "startOffset": 89822,
-                    "endLine": 1200,
+                    "startOffset": 89639,
+                    "endLine": 1198,
                     "endColumn": 12,
-                    "endOffset": 89987
+                    "endOffset": 89877
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3382,12 +3381,12 @@
             },
             {
                 "to": {
-                    "startLine": 1201,
+                    "startLine": 1199,
                     "startColumn": 4,
-                    "startOffset": 89992,
-                    "endLine": 1203,
+                    "startOffset": 89882,
+                    "endLine": 1201,
                     "endColumn": 12,
-                    "endOffset": 90160
+                    "endOffset": 90047
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3395,12 +3394,12 @@
             },
             {
                 "to": {
-                    "startLine": 1204,
+                    "startLine": 1202,
                     "startColumn": 4,
-                    "startOffset": 90165,
-                    "endLine": 1206,
+                    "startOffset": 90052,
+                    "endLine": 1204,
                     "endColumn": 12,
-                    "endOffset": 90331
+                    "endOffset": 90220
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3408,12 +3407,12 @@
             },
             {
                 "to": {
-                    "startLine": 1207,
+                    "startLine": 1205,
                     "startColumn": 4,
-                    "startOffset": 90336,
-                    "endLine": 1210,
+                    "startOffset": 90225,
+                    "endLine": 1207,
                     "endColumn": 12,
-                    "endOffset": 90605
+                    "endOffset": 90391
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3421,12 +3420,12 @@
             },
             {
                 "to": {
-                    "startLine": 1211,
+                    "startLine": 1208,
                     "startColumn": 4,
-                    "startOffset": 90610,
-                    "endLine": 1213,
+                    "startOffset": 90396,
+                    "endLine": 1211,
                     "endColumn": 12,
-                    "endOffset": 90804
+                    "endOffset": 90665
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3434,11 +3433,12 @@
             },
             {
                 "to": {
-                    "startLine": 1214,
+                    "startLine": 1212,
                     "startColumn": 4,
-                    "startOffset": 90809,
-                    "endColumn": 83,
-                    "endOffset": 90888
+                    "startOffset": 90670,
+                    "endLine": 1214,
+                    "endColumn": 12,
+                    "endOffset": 90864
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3448,9 +3448,9 @@
                 "to": {
                     "startLine": 1215,
                     "startColumn": 4,
-                    "startOffset": 90893,
-                    "endColumn": 95,
-                    "endOffset": 90984
+                    "startOffset": 90869,
+                    "endColumn": 83,
+                    "endOffset": 90948
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3460,9 +3460,9 @@
                 "to": {
                     "startLine": 1216,
                     "startColumn": 4,
-                    "startOffset": 90989,
+                    "startOffset": 90953,
                     "endColumn": 95,
-                    "endOffset": 91080
+                    "endOffset": 91044
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3472,9 +3472,9 @@
                 "to": {
                     "startLine": 1217,
                     "startColumn": 4,
-                    "startOffset": 91085,
-                    "endColumn": 97,
-                    "endOffset": 91178
+                    "startOffset": 91049,
+                    "endColumn": 95,
+                    "endOffset": 91140
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3484,9 +3484,9 @@
                 "to": {
                     "startLine": 1218,
                     "startColumn": 4,
-                    "startOffset": 91183,
-                    "endColumn": 99,
-                    "endOffset": 91278
+                    "startOffset": 91145,
+                    "endColumn": 97,
+                    "endOffset": 91238
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3496,9 +3496,9 @@
                 "to": {
                     "startLine": 1219,
                     "startColumn": 4,
-                    "startOffset": 91283,
-                    "endColumn": 101,
-                    "endOffset": 91380
+                    "startOffset": 91243,
+                    "endColumn": 99,
+                    "endOffset": 91338
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3508,9 +3508,9 @@
                 "to": {
                     "startLine": 1220,
                     "startColumn": 4,
-                    "startOffset": 91385,
+                    "startOffset": 91343,
                     "endColumn": 101,
-                    "endOffset": 91482
+                    "endOffset": 91440
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3520,9 +3520,9 @@
                 "to": {
                     "startLine": 1221,
                     "startColumn": 4,
-                    "startOffset": 91487,
+                    "startOffset": 91445,
                     "endColumn": 101,
-                    "endOffset": 91584
+                    "endOffset": 91542
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3532,9 +3532,9 @@
                 "to": {
                     "startLine": 1222,
                     "startColumn": 4,
-                    "startOffset": 91589,
+                    "startOffset": 91547,
                     "endColumn": 101,
-                    "endOffset": 91686
+                    "endOffset": 91644
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3544,9 +3544,9 @@
                 "to": {
                     "startLine": 1223,
                     "startColumn": 4,
-                    "startOffset": 91691,
+                    "startOffset": 91649,
                     "endColumn": 101,
-                    "endOffset": 91788
+                    "endOffset": 91746
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3556,9 +3556,9 @@
                 "to": {
                     "startLine": 1224,
                     "startColumn": 4,
-                    "startOffset": 91793,
-                    "endColumn": 99,
-                    "endOffset": 91888
+                    "startOffset": 91751,
+                    "endColumn": 101,
+                    "endOffset": 91848
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3568,9 +3568,9 @@
                 "to": {
                     "startLine": 1225,
                     "startColumn": 4,
-                    "startOffset": 91893,
-                    "endColumn": 95,
-                    "endOffset": 91984
+                    "startOffset": 91853,
+                    "endColumn": 99,
+                    "endOffset": 91948
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3580,9 +3580,9 @@
                 "to": {
                     "startLine": 1226,
                     "startColumn": 4,
-                    "startOffset": 91989,
-                    "endColumn": 111,
-                    "endOffset": 92096
+                    "startOffset": 91953,
+                    "endColumn": 95,
+                    "endOffset": 92044
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3592,9 +3592,9 @@
                 "to": {
                     "startLine": 1227,
                     "startColumn": 4,
-                    "startOffset": 92101,
-                    "endColumn": 128,
-                    "endOffset": 92225
+                    "startOffset": 92049,
+                    "endColumn": 111,
+                    "endOffset": 92156
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3604,9 +3604,9 @@
                 "to": {
                     "startLine": 1228,
                     "startColumn": 4,
-                    "startOffset": 92230,
-                    "endColumn": 122,
-                    "endOffset": 92348
+                    "startOffset": 92161,
+                    "endColumn": 128,
+                    "endOffset": 92285
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3616,10 +3616,9 @@
                 "to": {
                     "startLine": 1229,
                     "startColumn": 4,
-                    "startOffset": 92353,
-                    "endLine": 1230,
-                    "endColumn": 12,
-                    "endOffset": 92502
+                    "startOffset": 92290,
+                    "endColumn": 122,
+                    "endOffset": 92408
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3627,12 +3626,12 @@
             },
             {
                 "to": {
-                    "startLine": 1231,
+                    "startLine": 1230,
                     "startColumn": 4,
-                    "startOffset": 92507,
-                    "endLine": 1232,
+                    "startOffset": 92413,
+                    "endLine": 1231,
                     "endColumn": 12,
-                    "endOffset": 92656
+                    "endOffset": 92562
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3640,11 +3639,12 @@
             },
             {
                 "to": {
-                    "startLine": 1233,
+                    "startLine": 1232,
                     "startColumn": 4,
-                    "startOffset": 92661,
-                    "endColumn": 97,
-                    "endOffset": 92754
+                    "startOffset": 92567,
+                    "endLine": 1233,
+                    "endColumn": 12,
+                    "endOffset": 92716
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3654,9 +3654,9 @@
                 "to": {
                     "startLine": 1234,
                     "startColumn": 4,
-                    "startOffset": 92759,
-                    "endColumn": 113,
-                    "endOffset": 92868
+                    "startOffset": 92721,
+                    "endColumn": 97,
+                    "endOffset": 92814
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3666,9 +3666,9 @@
                 "to": {
                     "startLine": 1235,
                     "startColumn": 4,
-                    "startOffset": 92873,
-                    "endColumn": 93,
-                    "endOffset": 92962
+                    "startOffset": 92819,
+                    "endColumn": 113,
+                    "endOffset": 92928
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3678,10 +3678,9 @@
                 "to": {
                     "startLine": 1236,
                     "startColumn": 4,
-                    "startOffset": 92967,
-                    "endLine": 1237,
-                    "endColumn": 12,
-                    "endOffset": 93102
+                    "startOffset": 92933,
+                    "endColumn": 93,
+                    "endOffset": 93022
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3689,12 +3688,12 @@
             },
             {
                 "to": {
-                    "startLine": 1238,
+                    "startLine": 1237,
                     "startColumn": 4,
-                    "startOffset": 93107,
-                    "endLine": 1239,
+                    "startOffset": 93027,
+                    "endLine": 1238,
                     "endColumn": 12,
-                    "endOffset": 93236
+                    "endOffset": 93162
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3702,11 +3701,12 @@
             },
             {
                 "to": {
-                    "startLine": 1240,
+                    "startLine": 1239,
                     "startColumn": 4,
-                    "startOffset": 93241,
-                    "endColumn": 95,
-                    "endOffset": 93332
+                    "startOffset": 93167,
+                    "endLine": 1240,
+                    "endColumn": 12,
+                    "endOffset": 93296
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3716,9 +3716,9 @@
                 "to": {
                     "startLine": 1241,
                     "startColumn": 4,
-                    "startOffset": 93337,
-                    "endColumn": 111,
-                    "endOffset": 93444
+                    "startOffset": 93301,
+                    "endColumn": 95,
+                    "endOffset": 93392
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3728,9 +3728,9 @@
                 "to": {
                     "startLine": 1242,
                     "startColumn": 4,
-                    "startOffset": 93449,
-                    "endColumn": 99,
-                    "endOffset": 93544
+                    "startOffset": 93397,
+                    "endColumn": 111,
+                    "endOffset": 93504
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3740,9 +3740,9 @@
                 "to": {
                     "startLine": 1243,
                     "startColumn": 4,
-                    "startOffset": 93549,
-                    "endColumn": 115,
-                    "endOffset": 93660
+                    "startOffset": 93509,
+                    "endColumn": 99,
+                    "endOffset": 93604
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3752,9 +3752,9 @@
                 "to": {
                     "startLine": 1244,
                     "startColumn": 4,
-                    "startOffset": 93665,
-                    "endColumn": 95,
-                    "endOffset": 93756
+                    "startOffset": 93609,
+                    "endColumn": 115,
+                    "endOffset": 93720
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3764,9 +3764,9 @@
                 "to": {
                     "startLine": 1245,
                     "startColumn": 4,
-                    "startOffset": 93761,
-                    "endColumn": 111,
-                    "endOffset": 93868
+                    "startOffset": 93725,
+                    "endColumn": 95,
+                    "endOffset": 93816
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3776,10 +3776,9 @@
                 "to": {
                     "startLine": 1246,
                     "startColumn": 4,
-                    "startOffset": 93873,
-                    "endLine": 1247,
-                    "endColumn": 12,
-                    "endOffset": 94008
+                    "startOffset": 93821,
+                    "endColumn": 111,
+                    "endOffset": 93928
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3787,12 +3786,12 @@
             },
             {
                 "to": {
-                    "startLine": 1248,
+                    "startLine": 1247,
                     "startColumn": 4,
-                    "startOffset": 94013,
-                    "endLine": 1249,
+                    "startOffset": 93933,
+                    "endLine": 1248,
                     "endColumn": 12,
-                    "endOffset": 94156
+                    "endOffset": 94068
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3800,12 +3799,12 @@
             },
             {
                 "to": {
-                    "startLine": 1250,
+                    "startLine": 1249,
                     "startColumn": 4,
-                    "startOffset": 94161,
-                    "endLine": 1251,
+                    "startOffset": 94073,
+                    "endLine": 1250,
                     "endColumn": 12,
-                    "endOffset": 94320
+                    "endOffset": 94216
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3813,12 +3812,12 @@
             },
             {
                 "to": {
-                    "startLine": 1252,
+                    "startLine": 1251,
                     "startColumn": 4,
-                    "startOffset": 94325,
-                    "endLine": 1253,
+                    "startOffset": 94221,
+                    "endLine": 1252,
                     "endColumn": 12,
-                    "endOffset": 94462
+                    "endOffset": 94380
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3826,12 +3825,12 @@
             },
             {
                 "to": {
-                    "startLine": 1254,
+                    "startLine": 1253,
                     "startColumn": 4,
-                    "startOffset": 94467,
-                    "endLine": 1255,
+                    "startOffset": 94385,
+                    "endLine": 1254,
                     "endColumn": 12,
-                    "endOffset": 94620
+                    "endOffset": 94522
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3839,12 +3838,12 @@
             },
             {
                 "to": {
-                    "startLine": 1256,
+                    "startLine": 1255,
                     "startColumn": 4,
-                    "startOffset": 94625,
-                    "endLine": 1257,
+                    "startOffset": 94527,
+                    "endLine": 1256,
                     "endColumn": 12,
-                    "endOffset": 94770
+                    "endOffset": 94680
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3852,11 +3851,12 @@
             },
             {
                 "to": {
-                    "startLine": 1258,
+                    "startLine": 1257,
                     "startColumn": 4,
-                    "startOffset": 94775,
-                    "endColumn": 140,
-                    "endOffset": 94911
+                    "startOffset": 94685,
+                    "endLine": 1258,
+                    "endColumn": 12,
+                    "endOffset": 94830
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3866,10 +3866,9 @@
                 "to": {
                     "startLine": 1259,
                     "startColumn": 4,
-                    "startOffset": 94916,
-                    "endLine": 1260,
-                    "endColumn": 12,
-                    "endOffset": 95055
+                    "startOffset": 94835,
+                    "endColumn": 140,
+                    "endOffset": 94971
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3877,11 +3876,12 @@
             },
             {
                 "to": {
-                    "startLine": 1261,
+                    "startLine": 1260,
                     "startColumn": 4,
-                    "startOffset": 95060,
-                    "endColumn": 134,
-                    "endOffset": 95190
+                    "startOffset": 94976,
+                    "endLine": 1261,
+                    "endColumn": 12,
+                    "endOffset": 95115
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3891,10 +3891,9 @@
                 "to": {
                     "startLine": 1262,
                     "startColumn": 4,
-                    "startOffset": 95195,
-                    "endLine": 1263,
-                    "endColumn": 12,
-                    "endOffset": 95326
+                    "startOffset": 95120,
+                    "endColumn": 134,
+                    "endOffset": 95250
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3902,12 +3901,12 @@
             },
             {
                 "to": {
-                    "startLine": 1264,
+                    "startLine": 1263,
                     "startColumn": 4,
-                    "startOffset": 95331,
-                    "endLine": 1265,
+                    "startOffset": 95255,
+                    "endLine": 1264,
                     "endColumn": 12,
-                    "endOffset": 95468
+                    "endOffset": 95386
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3915,12 +3914,12 @@
             },
             {
                 "to": {
-                    "startLine": 1266,
+                    "startLine": 1265,
                     "startColumn": 4,
-                    "startOffset": 95473,
-                    "endLine": 1267,
+                    "startOffset": 95391,
+                    "endLine": 1266,
                     "endColumn": 12,
-                    "endOffset": 95610
+                    "endOffset": 95528
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3928,11 +3927,12 @@
             },
             {
                 "to": {
-                    "startLine": 1268,
+                    "startLine": 1267,
                     "startColumn": 4,
-                    "startOffset": 95615,
-                    "endColumn": 111,
-                    "endOffset": 95722
+                    "startOffset": 95533,
+                    "endLine": 1268,
+                    "endColumn": 12,
+                    "endOffset": 95670
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3942,9 +3942,9 @@
                 "to": {
                     "startLine": 1269,
                     "startColumn": 4,
-                    "startOffset": 95727,
-                    "endColumn": 139,
-                    "endOffset": 95862
+                    "startOffset": 95675,
+                    "endColumn": 111,
+                    "endOffset": 95782
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3954,10 +3954,9 @@
                 "to": {
                     "startLine": 1270,
                     "startColumn": 4,
-                    "startOffset": 95867,
-                    "endLine": 1271,
-                    "endColumn": 12,
-                    "endOffset": 96008
+                    "startOffset": 95787,
+                    "endColumn": 139,
+                    "endOffset": 95922
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3965,12 +3964,12 @@
             },
             {
                 "to": {
-                    "startLine": 1272,
+                    "startLine": 1271,
                     "startColumn": 4,
-                    "startOffset": 96013,
-                    "endLine": 1273,
+                    "startOffset": 95927,
+                    "endLine": 1272,
                     "endColumn": 12,
-                    "endOffset": 96152
+                    "endOffset": 96068
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3978,12 +3977,12 @@
             },
             {
                 "to": {
-                    "startLine": 1274,
+                    "startLine": 1273,
                     "startColumn": 4,
-                    "startOffset": 96157,
-                    "endLine": 1275,
+                    "startOffset": 96073,
+                    "endLine": 1274,
                     "endColumn": 12,
-                    "endOffset": 96290
+                    "endOffset": 96212
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -3991,11 +3990,12 @@
             },
             {
                 "to": {
-                    "startLine": 1276,
+                    "startLine": 1275,
                     "startColumn": 4,
-                    "startOffset": 96295,
-                    "endColumn": 65,
-                    "endOffset": 96356
+                    "startOffset": 96217,
+                    "endLine": 1276,
+                    "endColumn": 12,
+                    "endOffset": 96350
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4005,9 +4005,9 @@
                 "to": {
                     "startLine": 1277,
                     "startColumn": 4,
-                    "startOffset": 96361,
-                    "endColumn": 89,
-                    "endOffset": 96446
+                    "startOffset": 96355,
+                    "endColumn": 65,
+                    "endOffset": 96416
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4017,9 +4017,9 @@
                 "to": {
                     "startLine": 1278,
                     "startColumn": 4,
-                    "startOffset": 96451,
-                    "endColumn": 79,
-                    "endOffset": 96526
+                    "startOffset": 96421,
+                    "endColumn": 89,
+                    "endOffset": 96506
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4029,10 +4029,9 @@
                 "to": {
                     "startLine": 1279,
                     "startColumn": 4,
-                    "startOffset": 96531,
-                    "endLine": 1280,
-                    "endColumn": 12,
-                    "endOffset": 96636
+                    "startOffset": 96511,
+                    "endColumn": 79,
+                    "endOffset": 96586
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4040,11 +4039,12 @@
             },
             {
                 "to": {
-                    "startLine": 1281,
+                    "startLine": 1280,
                     "startColumn": 4,
-                    "startOffset": 96641,
-                    "endColumn": 77,
-                    "endOffset": 96714
+                    "startOffset": 96591,
+                    "endLine": 1281,
+                    "endColumn": 12,
+                    "endOffset": 96696
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4054,9 +4054,9 @@
                 "to": {
                     "startLine": 1282,
                     "startColumn": 4,
-                    "startOffset": 96719,
-                    "endColumn": 105,
-                    "endOffset": 96820
+                    "startOffset": 96701,
+                    "endColumn": 77,
+                    "endOffset": 96774
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4066,9 +4066,9 @@
                 "to": {
                     "startLine": 1283,
                     "startColumn": 4,
-                    "startOffset": 96825,
-                    "endColumn": 91,
-                    "endOffset": 96912
+                    "startOffset": 96779,
+                    "endColumn": 105,
+                    "endOffset": 96880
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4078,10 +4078,9 @@
                 "to": {
                     "startLine": 1284,
                     "startColumn": 4,
-                    "startOffset": 96917,
-                    "endLine": 1285,
-                    "endColumn": 12,
-                    "endOffset": 97034
+                    "startOffset": 96885,
+                    "endColumn": 91,
+                    "endOffset": 96972
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4089,12 +4088,12 @@
             },
             {
                 "to": {
-                    "startLine": 1286,
+                    "startLine": 1285,
                     "startColumn": 4,
-                    "startOffset": 97039,
-                    "endLine": 1289,
+                    "startOffset": 96977,
+                    "endLine": 1286,
                     "endColumn": 12,
-                    "endOffset": 97205
+                    "endOffset": 97094
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4102,12 +4101,12 @@
             },
             {
                 "to": {
-                    "startLine": 1290,
+                    "startLine": 1287,
                     "startColumn": 4,
-                    "startOffset": 97210,
-                    "endLine": 1293,
+                    "startOffset": 97099,
+                    "endLine": 1290,
                     "endColumn": 12,
-                    "endOffset": 97370
+                    "endOffset": 97265
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4115,11 +4114,12 @@
             },
             {
                 "to": {
-                    "startLine": 1294,
+                    "startLine": 1291,
                     "startColumn": 4,
-                    "startOffset": 97375,
-                    "endColumn": 79,
-                    "endOffset": 97450
+                    "startOffset": 97270,
+                    "endLine": 1294,
+                    "endColumn": 12,
+                    "endOffset": 97430
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4129,9 +4129,9 @@
                 "to": {
                     "startLine": 1295,
                     "startColumn": 4,
-                    "startOffset": 97455,
-                    "endColumn": 99,
-                    "endOffset": 97550
+                    "startOffset": 97435,
+                    "endColumn": 79,
+                    "endOffset": 97510
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4141,9 +4141,9 @@
                 "to": {
                     "startLine": 1296,
                     "startColumn": 4,
-                    "startOffset": 97555,
-                    "endColumn": 89,
-                    "endOffset": 97640
+                    "startOffset": 97515,
+                    "endColumn": 99,
+                    "endOffset": 97610
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4153,9 +4153,9 @@
                 "to": {
                     "startLine": 1297,
                     "startColumn": 4,
-                    "startOffset": 97645,
-                    "endColumn": 109,
-                    "endOffset": 97750
+                    "startOffset": 97615,
+                    "endColumn": 89,
+                    "endOffset": 97700
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4165,9 +4165,9 @@
                 "to": {
                     "startLine": 1298,
                     "startColumn": 4,
-                    "startOffset": 97755,
-                    "endColumn": 91,
-                    "endOffset": 97842
+                    "startOffset": 97705,
+                    "endColumn": 109,
+                    "endOffset": 97810
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4177,10 +4177,9 @@
                 "to": {
                     "startLine": 1299,
                     "startColumn": 4,
-                    "startOffset": 97847,
-                    "endLine": 1300,
-                    "endColumn": 12,
-                    "endOffset": 97942
+                    "startOffset": 97815,
+                    "endColumn": 91,
+                    "endOffset": 97902
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4188,12 +4187,12 @@
             },
             {
                 "to": {
-                    "startLine": 1301,
+                    "startLine": 1300,
                     "startColumn": 4,
-                    "startOffset": 97947,
-                    "endLine": 1302,
+                    "startOffset": 97907,
+                    "endLine": 1301,
                     "endColumn": 12,
-                    "endOffset": 98054
+                    "endOffset": 98002
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4201,12 +4200,12 @@
             },
             {
                 "to": {
-                    "startLine": 1303,
+                    "startLine": 1302,
                     "startColumn": 4,
-                    "startOffset": 98059,
-                    "endLine": 1304,
+                    "startOffset": 98007,
+                    "endLine": 1303,
                     "endColumn": 12,
-                    "endOffset": 98168
+                    "endOffset": 98114
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4214,12 +4213,12 @@
             },
             {
                 "to": {
-                    "startLine": 1305,
+                    "startLine": 1304,
                     "startColumn": 4,
-                    "startOffset": 98173,
-                    "endLine": 1306,
+                    "startOffset": 98119,
+                    "endLine": 1305,
                     "endColumn": 12,
-                    "endOffset": 98284
+                    "endOffset": 98228
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4227,12 +4226,12 @@
             },
             {
                 "to": {
-                    "startLine": 1307,
+                    "startLine": 1306,
                     "startColumn": 4,
-                    "startOffset": 98289,
-                    "endLine": 1308,
+                    "startOffset": 98233,
+                    "endLine": 1307,
                     "endColumn": 12,
-                    "endOffset": 98400
+                    "endOffset": 98344
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4240,11 +4239,12 @@
             },
             {
                 "to": {
-                    "startLine": 1309,
+                    "startLine": 1308,
                     "startColumn": 4,
-                    "startOffset": 98405,
-                    "endColumn": 93,
-                    "endOffset": 98494
+                    "startOffset": 98349,
+                    "endLine": 1309,
+                    "endColumn": 12,
+                    "endOffset": 98460
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4254,9 +4254,9 @@
                 "to": {
                     "startLine": 1310,
                     "startColumn": 4,
-                    "startOffset": 98499,
-                    "endColumn": 119,
-                    "endOffset": 98614
+                    "startOffset": 98465,
+                    "endColumn": 93,
+                    "endOffset": 98554
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4266,9 +4266,9 @@
                 "to": {
                     "startLine": 1311,
                     "startColumn": 4,
-                    "startOffset": 98619,
-                    "endColumn": 117,
-                    "endOffset": 98732
+                    "startOffset": 98559,
+                    "endColumn": 119,
+                    "endOffset": 98674
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4278,10 +4278,9 @@
                 "to": {
                     "startLine": 1312,
                     "startColumn": 4,
-                    "startOffset": 98737,
-                    "endLine": 1313,
-                    "endColumn": 12,
-                    "endOffset": 98834
+                    "startOffset": 98679,
+                    "endColumn": 117,
+                    "endOffset": 98792
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4289,12 +4288,12 @@
             },
             {
                 "to": {
-                    "startLine": 1314,
+                    "startLine": 1313,
                     "startColumn": 4,
-                    "startOffset": 98839,
-                    "endLine": 1315,
+                    "startOffset": 98797,
+                    "endLine": 1314,
                     "endColumn": 12,
-                    "endOffset": 98954
+                    "endOffset": 98894
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4302,12 +4301,12 @@
             },
             {
                 "to": {
-                    "startLine": 1316,
+                    "startLine": 1315,
                     "startColumn": 4,
-                    "startOffset": 98959,
-                    "endLine": 1317,
+                    "startOffset": 98899,
+                    "endLine": 1316,
                     "endColumn": 12,
-                    "endOffset": 99076
+                    "endOffset": 99014
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4315,11 +4314,12 @@
             },
             {
                 "to": {
-                    "startLine": 1318,
+                    "startLine": 1317,
                     "startColumn": 4,
-                    "startOffset": 99081,
-                    "endColumn": 81,
-                    "endOffset": 99158
+                    "startOffset": 99019,
+                    "endLine": 1318,
+                    "endColumn": 12,
+                    "endOffset": 99136
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4329,9 +4329,9 @@
                 "to": {
                     "startLine": 1319,
                     "startColumn": 4,
-                    "startOffset": 99163,
-                    "endColumn": 93,
-                    "endOffset": 99252
+                    "startOffset": 99141,
+                    "endColumn": 81,
+                    "endOffset": 99218
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4341,9 +4341,9 @@
                 "to": {
                     "startLine": 1320,
                     "startColumn": 4,
-                    "startOffset": 99257,
-                    "endColumn": 111,
-                    "endOffset": 99364
+                    "startOffset": 99223,
+                    "endColumn": 93,
+                    "endOffset": 99312
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4353,10 +4353,9 @@
                 "to": {
                     "startLine": 1321,
                     "startColumn": 4,
-                    "startOffset": 99369,
-                    "endLine": 1323,
-                    "endColumn": 12,
-                    "endOffset": 99539
+                    "startOffset": 99317,
+                    "endColumn": 111,
+                    "endOffset": 99424
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4364,11 +4363,12 @@
             },
             {
                 "to": {
-                    "startLine": 1324,
+                    "startLine": 1322,
                     "startColumn": 4,
-                    "startOffset": 99544,
-                    "endColumn": 115,
-                    "endOffset": 99655
+                    "startOffset": 99429,
+                    "endLine": 1324,
+                    "endColumn": 12,
+                    "endOffset": 99599
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4378,10 +4378,9 @@
                 "to": {
                     "startLine": 1325,
                     "startColumn": 4,
-                    "startOffset": 99660,
-                    "endLine": 1326,
-                    "endColumn": 12,
-                    "endOffset": 99753
+                    "startOffset": 99604,
+                    "endColumn": 115,
+                    "endOffset": 99715
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4389,12 +4388,12 @@
             },
             {
                 "to": {
-                    "startLine": 1327,
+                    "startLine": 1326,
                     "startColumn": 4,
-                    "startOffset": 99758,
-                    "endLine": 1328,
+                    "startOffset": 99720,
+                    "endLine": 1327,
                     "endColumn": 12,
-                    "endOffset": 99865
+                    "endOffset": 99813
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4402,12 +4401,12 @@
             },
             {
                 "to": {
-                    "startLine": 1329,
+                    "startLine": 1328,
                     "startColumn": 4,
-                    "startOffset": 99870,
-                    "endLine": 1330,
+                    "startOffset": 99818,
+                    "endLine": 1329,
                     "endColumn": 12,
-                    "endOffset": 99989
+                    "endOffset": 99925
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4415,11 +4414,12 @@
             },
             {
                 "to": {
-                    "startLine": 1331,
+                    "startLine": 1330,
                     "startColumn": 4,
-                    "startOffset": 99994,
-                    "endColumn": 66,
-                    "endOffset": 100056
+                    "startOffset": 99930,
+                    "endLine": 1331,
+                    "endColumn": 12,
+                    "endOffset": 100049
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4429,10 +4429,9 @@
                 "to": {
                     "startLine": 1332,
                     "startColumn": 4,
-                    "startOffset": 100061,
-                    "endLine": 1333,
-                    "endColumn": 12,
-                    "endOffset": 100182
+                    "startOffset": 100054,
+                    "endColumn": 66,
+                    "endOffset": 100116
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4440,11 +4439,12 @@
             },
             {
                 "to": {
-                    "startLine": 1334,
+                    "startLine": 1333,
                     "startColumn": 4,
-                    "startOffset": 100187,
-                    "endColumn": 67,
-                    "endOffset": 100250
+                    "startOffset": 100121,
+                    "endLine": 1334,
+                    "endColumn": 12,
+                    "endOffset": 100242
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4454,10 +4454,9 @@
                 "to": {
                     "startLine": 1335,
                     "startColumn": 4,
-                    "startOffset": 100255,
-                    "endLine": 1336,
-                    "endColumn": 12,
-                    "endOffset": 100378
+                    "startOffset": 100247,
+                    "endColumn": 67,
+                    "endOffset": 100310
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4465,12 +4464,12 @@
             },
             {
                 "to": {
-                    "startLine": 1337,
+                    "startLine": 1336,
                     "startColumn": 4,
-                    "startOffset": 100383,
-                    "endLine": 1338,
+                    "startOffset": 100315,
+                    "endLine": 1337,
                     "endColumn": 12,
-                    "endOffset": 100522
+                    "endOffset": 100438
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4478,12 +4477,12 @@
             },
             {
                 "to": {
-                    "startLine": 1339,
+                    "startLine": 1338,
                     "startColumn": 4,
-                    "startOffset": 100527,
-                    "endLine": 1340,
+                    "startOffset": 100443,
+                    "endLine": 1339,
                     "endColumn": 12,
-                    "endOffset": 100650
+                    "endOffset": 100582
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4491,11 +4490,12 @@
             },
             {
                 "to": {
-                    "startLine": 1341,
+                    "startLine": 1340,
                     "startColumn": 4,
-                    "startOffset": 100655,
-                    "endColumn": 68,
-                    "endOffset": 100719
+                    "startOffset": 100587,
+                    "endLine": 1341,
+                    "endColumn": 12,
+                    "endOffset": 100710
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4505,9 +4505,9 @@
                 "to": {
                     "startLine": 1342,
                     "startColumn": 4,
-                    "startOffset": 100724,
-                    "endColumn": 94,
-                    "endOffset": 100814
+                    "startOffset": 100715,
+                    "endColumn": 68,
+                    "endOffset": 100779
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4517,9 +4517,9 @@
                 "to": {
                     "startLine": 1343,
                     "startColumn": 4,
-                    "startOffset": 100819,
-                    "endColumn": 114,
-                    "endOffset": 100929
+                    "startOffset": 100784,
+                    "endColumn": 94,
+                    "endOffset": 100874
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4529,9 +4529,9 @@
                 "to": {
                     "startLine": 1344,
                     "startColumn": 4,
-                    "startOffset": 100934,
-                    "endColumn": 112,
-                    "endOffset": 101042
+                    "startOffset": 100879,
+                    "endColumn": 114,
+                    "endOffset": 100989
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4541,9 +4541,9 @@
                 "to": {
                     "startLine": 1345,
                     "startColumn": 4,
-                    "startOffset": 101047,
-                    "endColumn": 98,
-                    "endOffset": 101141
+                    "startOffset": 100994,
+                    "endColumn": 112,
+                    "endOffset": 101102
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4553,9 +4553,9 @@
                 "to": {
                     "startLine": 1346,
                     "startColumn": 4,
-                    "startOffset": 101146,
-                    "endColumn": 108,
-                    "endOffset": 101250
+                    "startOffset": 101107,
+                    "endColumn": 98,
+                    "endOffset": 101201
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4565,9 +4565,9 @@
                 "to": {
                     "startLine": 1347,
                     "startColumn": 4,
-                    "startOffset": 101255,
-                    "endColumn": 110,
-                    "endOffset": 101361
+                    "startOffset": 101206,
+                    "endColumn": 108,
+                    "endOffset": 101310
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4577,9 +4577,9 @@
                 "to": {
                     "startLine": 1348,
                     "startColumn": 4,
-                    "startOffset": 101366,
+                    "startOffset": 101315,
                     "endColumn": 110,
-                    "endOffset": 101472
+                    "endOffset": 101421
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4589,9 +4589,9 @@
                 "to": {
                     "startLine": 1349,
                     "startColumn": 4,
-                    "startOffset": 101477,
-                    "endColumn": 100,
-                    "endOffset": 101573
+                    "startOffset": 101426,
+                    "endColumn": 110,
+                    "endOffset": 101532
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4601,9 +4601,9 @@
                 "to": {
                     "startLine": 1350,
                     "startColumn": 4,
-                    "startOffset": 101578,
-                    "endColumn": 104,
-                    "endOffset": 101678
+                    "startOffset": 101537,
+                    "endColumn": 100,
+                    "endOffset": 101633
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4613,10 +4613,9 @@
                 "to": {
                     "startLine": 1351,
                     "startColumn": 4,
-                    "startOffset": 101683,
-                    "endLine": 1352,
-                    "endColumn": 12,
-                    "endOffset": 101790
+                    "startOffset": 101638,
+                    "endColumn": 104,
+                    "endOffset": 101738
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4624,12 +4623,12 @@
             },
             {
                 "to": {
-                    "startLine": 1353,
+                    "startLine": 1352,
                     "startColumn": 4,
-                    "startOffset": 101795,
-                    "endLine": 1354,
+                    "startOffset": 101743,
+                    "endLine": 1353,
                     "endColumn": 12,
-                    "endOffset": 101920
+                    "endOffset": 101850
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4637,11 +4636,12 @@
             },
             {
                 "to": {
-                    "startLine": 1355,
+                    "startLine": 1354,
                     "startColumn": 4,
-                    "startOffset": 101925,
-                    "endColumn": 90,
-                    "endOffset": 102011
+                    "startOffset": 101855,
+                    "endLine": 1355,
+                    "endColumn": 12,
+                    "endOffset": 101980
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4651,9 +4651,9 @@
                 "to": {
                     "startLine": 1356,
                     "startColumn": 4,
-                    "startOffset": 102016,
-                    "endColumn": 122,
-                    "endOffset": 102134
+                    "startOffset": 101985,
+                    "endColumn": 90,
+                    "endOffset": 102071
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4663,10 +4663,9 @@
                 "to": {
                     "startLine": 1357,
                     "startColumn": 4,
-                    "startOffset": 102139,
-                    "endLine": 1358,
-                    "endColumn": 12,
-                    "endOffset": 102246
+                    "startOffset": 102076,
+                    "endColumn": 122,
+                    "endOffset": 102194
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4674,12 +4673,12 @@
             },
             {
                 "to": {
-                    "startLine": 1359,
+                    "startLine": 1358,
                     "startColumn": 4,
-                    "startOffset": 102251,
-                    "endLine": 1360,
+                    "startOffset": 102199,
+                    "endLine": 1359,
                     "endColumn": 12,
-                    "endOffset": 102362
+                    "endOffset": 102306
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4687,12 +4686,12 @@
             },
             {
                 "to": {
-                    "startLine": 1361,
+                    "startLine": 1360,
                     "startColumn": 4,
-                    "startOffset": 102367,
-                    "endLine": 1362,
+                    "startOffset": 102311,
+                    "endLine": 1361,
                     "endColumn": 12,
-                    "endOffset": 102470
+                    "endOffset": 102422
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4700,12 +4699,12 @@
             },
             {
                 "to": {
-                    "startLine": 1363,
+                    "startLine": 1362,
                     "startColumn": 4,
-                    "startOffset": 102475,
-                    "endLine": 1364,
+                    "startOffset": 102427,
+                    "endLine": 1363,
                     "endColumn": 12,
-                    "endOffset": 102570
+                    "endOffset": 102530
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4713,12 +4712,12 @@
             },
             {
                 "to": {
-                    "startLine": 1365,
+                    "startLine": 1364,
                     "startColumn": 4,
-                    "startOffset": 102575,
-                    "endLine": 1366,
+                    "startOffset": 102535,
+                    "endLine": 1365,
                     "endColumn": 12,
-                    "endOffset": 102688
+                    "endOffset": 102630
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4726,12 +4725,12 @@
             },
             {
                 "to": {
-                    "startLine": 1367,
+                    "startLine": 1366,
                     "startColumn": 4,
-                    "startOffset": 102693,
-                    "endLine": 1368,
+                    "startOffset": 102635,
+                    "endLine": 1367,
                     "endColumn": 12,
-                    "endOffset": 102792
+                    "endOffset": 102748
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4739,12 +4738,12 @@
             },
             {
                 "to": {
-                    "startLine": 1369,
+                    "startLine": 1368,
                     "startColumn": 4,
-                    "startOffset": 102797,
-                    "endLine": 1370,
+                    "startOffset": 102753,
+                    "endLine": 1369,
                     "endColumn": 12,
-                    "endOffset": 102896
+                    "endOffset": 102852
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4752,12 +4751,12 @@
             },
             {
                 "to": {
-                    "startLine": 1371,
+                    "startLine": 1370,
                     "startColumn": 4,
-                    "startOffset": 102901,
-                    "endLine": 1372,
+                    "startOffset": 102857,
+                    "endLine": 1371,
                     "endColumn": 12,
-                    "endOffset": 103022
+                    "endOffset": 102956
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4765,11 +4764,12 @@
             },
             {
                 "to": {
-                    "startLine": 1373,
+                    "startLine": 1372,
                     "startColumn": 4,
-                    "startOffset": 103027,
-                    "endColumn": 87,
-                    "endOffset": 103110
+                    "startOffset": 102961,
+                    "endLine": 1373,
+                    "endColumn": 12,
+                    "endOffset": 103082
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4779,9 +4779,9 @@
                 "to": {
                     "startLine": 1374,
                     "startColumn": 4,
-                    "startOffset": 103115,
-                    "endColumn": 89,
-                    "endOffset": 103200
+                    "startOffset": 103087,
+                    "endColumn": 87,
+                    "endOffset": 103170
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4791,9 +4791,9 @@
                 "to": {
                     "startLine": 1375,
                     "startColumn": 4,
-                    "startOffset": 103205,
-                    "endColumn": 83,
-                    "endOffset": 103284
+                    "startOffset": 103175,
+                    "endColumn": 89,
+                    "endOffset": 103260
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4803,9 +4803,9 @@
                 "to": {
                     "startLine": 1376,
                     "startColumn": 4,
-                    "startOffset": 103289,
-                    "endColumn": 53,
-                    "endOffset": 103338
+                    "startOffset": 103265,
+                    "endColumn": 83,
+                    "endOffset": 103344
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4815,9 +4815,9 @@
                 "to": {
                     "startLine": 1377,
                     "startColumn": 4,
-                    "startOffset": 103343,
-                    "endColumn": 121,
-                    "endOffset": 103460
+                    "startOffset": 103349,
+                    "endColumn": 53,
+                    "endOffset": 103398
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4827,9 +4827,9 @@
                 "to": {
                     "startLine": 1378,
                     "startColumn": 4,
-                    "startOffset": 103465,
-                    "endColumn": 105,
-                    "endOffset": 103566
+                    "startOffset": 103403,
+                    "endColumn": 121,
+                    "endOffset": 103520
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4839,9 +4839,9 @@
                 "to": {
                     "startLine": 1379,
                     "startColumn": 4,
-                    "startOffset": 103571,
-                    "endColumn": 109,
-                    "endOffset": 103676
+                    "startOffset": 103525,
+                    "endColumn": 105,
+                    "endOffset": 103626
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4851,9 +4851,9 @@
                 "to": {
                     "startLine": 1380,
                     "startColumn": 4,
-                    "startOffset": 103681,
-                    "endColumn": 83,
-                    "endOffset": 103760
+                    "startOffset": 103631,
+                    "endColumn": 109,
+                    "endOffset": 103736
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
@@ -4863,9 +4863,21 @@
                 "to": {
                     "startLine": 1381,
                     "startColumn": 4,
-                    "startOffset": 103765,
+                    "startOffset": 103741,
+                    "endColumn": 83,
+                    "endOffset": 103820
+                },
+                "from": {
+                    "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"
+                }
+            },
+            {
+                "to": {
+                    "startLine": 1382,
+                    "startColumn": 4,
+                    "startOffset": 103825,
                     "endColumn": 119,
-                    "endOffset": 103880
+                    "endOffset": 103940
                 },
                 "from": {
                     "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values\\values.xml"

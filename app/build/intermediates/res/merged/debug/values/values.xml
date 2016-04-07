@@ -159,6 +159,7 @@
     <string name="abc_shareactionprovider_share_with">Share with</string>
     <string name="abc_shareactionprovider_share_with_application">Share with %s</string>
     <string name="abc_toolbar_collapse_description">Collapse</string>
+    <string name="action_settings">Action Settings</string>
     <string name="android_markt_not_avail">Android market is not available, you need install to OI File manager manually.</string>
     <string name="app_description">AndAR Model Viewer allows you to view wavefront obj models on an Augmented Reality marker.</string>
     <string name="app_name">AR: Room Design</string>
