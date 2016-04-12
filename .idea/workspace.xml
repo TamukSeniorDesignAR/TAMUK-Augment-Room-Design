@@ -2,40 +2,98 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="8afe7994-1175-43c6-87c6-4b3818a90743" name="Default" comment="">
-      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\transforms\dex\debug\folders\1000\1f\main\classes.dex" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/paar/ch8/CheckFileManagerActivity.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/paar/ch8/CheckFileManagerActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/paar/ch8/ModelChooser$ModelChooserListAdapter.class" afterPath="$PROJECT_DIR$/app/build/intermediates/classes/debug/com/paar/ch8/ModelChooser$ModelChooserListAdapter.class" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\anim\abc_slide_in_bottom.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\anim\abc_slide_out_bottom.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-hdpi-v4\abc_ab_share_pack_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-hdpi-v4\abc_btn_radio_to_on_mtrl_000.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-hdpi-v4\abc_btn_radio_to_on_mtrl_015.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-hdpi-v4\abc_ic_clear_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-hdpi-v4\abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-hdpi-v4\abc_ic_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-hdpi-v4\abc_list_pressed_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-hdpi-v4\abc_menu_hardkey_panel_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-hdpi-v4\abc_switch_track_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-hdpi-v4\abc_textfield_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-hdpi-v4\abc_textfield_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-ldpi-v4\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-ldrtl-hdpi-v17\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-ldrtl-mdpi-v17\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-ldrtl-mdpi-v17\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-ldrtl-xxxhdpi-v17\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-ldrtl-xxxhdpi-v17\abc_spinner_mtrl_am_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-mdpi-v4\abc_ab_share_pack_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-mdpi-v4\abc_btn_rating_star_on_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-mdpi-v4\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-mdpi-v4\abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-mdpi-v4\abc_ic_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-mdpi-v4\abc_list_pressed_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-mdpi-v4\abc_list_pressed_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-mdpi-v4\abc_list_selector_disabled_holo_dark.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-mdpi-v4\abc_textfield_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-mdpi-v4\ic_launcher.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xhdpi-v4\abc_btn_rating_star_off_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xhdpi-v4\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xhdpi-v4\abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xhdpi-v4\abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xhdpi-v4\abc_ic_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xhdpi-v4\abc_list_pressed_holo_light.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xhdpi-v4\abc_menu_hardkey_panel_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xhdpi-v4\abc_popup_background_mtrl_mult.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xhdpi-v4\abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xhdpi-v4\abc_textfield_default_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xxhdpi-v4\abc_btn_switch_to_on_mtrl_00001.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xxhdpi-v4\abc_btn_switch_to_on_mtrl_00012.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xxhdpi-v4\abc_cab_background_top_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xxhdpi-v4\abc_ic_clear_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xxhdpi-v4\abc_ic_commit_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xxhdpi-v4\abc_ic_go_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xxhdpi-v4\abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xxhdpi-v4\abc_ic_voice_search_api_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xxhdpi-v4\abc_list_focused_holo.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xxhdpi-v4\abc_switch_track_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xxhdpi-v4\abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xxhdpi-v4\abc_textfield_search_activated_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xxxhdpi-v4\abc_ic_ab_back_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xxxhdpi-v4\abc_ic_menu_cut_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xxxhdpi-v4\abc_ic_menu_moreoverflow_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xxxhdpi-v4\abc_ic_menu_paste_mtrl_am_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xxxhdpi-v4\abc_ic_menu_selectall_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xxxhdpi-v4\abc_ic_menu_share_mtrl_alpha.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable-xxxhdpi-v4\abc_tab_indicator_mtrl_alpha.9.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable\abc_cab_background_top_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable\abc_item_background_holo_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable\abc_item_background_holo_light.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable\abc_list_selector_background_transition_holo_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable\abc_list_selector_holo_dark.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\drawable\abc_ratingbar_full_material.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\layout-v11\abc_screen_content_include.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\layout\abc_list_menu_item_checkbox.xml" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\merged\debug\layout\abc_popup_menu_item_layout.xml" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_ab_share_pack_mtrl_alpha.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_000.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_btn_check_to_on_mtrl_015.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_radio_to_on_mtrl_000.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_rating_star_off_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_btn_rating_star_on_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_cab_background_top_mtrl_alpha.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-ldrtl-xhdpi-v17/abc_ic_ab_back_mtrl_am_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_go_search_api_mtrl_alpha.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/abc_ic_go_search_api_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-ldrtl-hdpi-v17/abc_ic_menu_copy_mtrl_am_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_cut_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_ic_menu_selectall_mtrl_alpha.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_menu_hardkey_panel_mtrl_mult.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4/abc_switch_track_mtrl_alpha.9.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4/abc_textfield_activated_mtrl_alpha.9.png" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/cache.properties.lock" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_ce9eec471f77acb4ca9f111fe3c2b6e1ad2c75bc.jar" afterPath="$PROJECT_DIR$/app/build/intermediates/pre-dexed/debug/debug_ce9eec471f77acb4ca9f111fe3c2b6e1ad2c75bc.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileHashes.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/fileSnapshots.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/outputFileStates.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug-androidTest.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" afterPath="$PROJECT_DIR$/app/build/intermediates/res/resources-debug.ap_" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" afterPath="$PROJECT_DIR$/.gradle/2.8/taskArtifacts/taskArtifacts.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifest/androidTest/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/manifests/full/debug/AndroidManifest.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/TAMUK-Augment-Room-Design.iml" afterPath="$PROJECT_DIR$/TAMUK-Augment-Room-Design.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/app.iml" afterPath="$PROJECT_DIR$/app/app.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" afterPath="$PROJECT_DIR$/build/intermediates/dex-cache/cache.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-hdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-ldpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-ldpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/drawable-mdpi-v4.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/gradle.xml" afterPath="$PROJECT_DIR$/.idea/gradle.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/single/layout.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" afterPath="$PROJECT_DIR$/app/build/outputs/logs/manifest-merger-debug-report.txt" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAndroidTestResources/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugAssets/merger.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/incremental/mergeDebugResources/merger.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/ic_launcher.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/open.png" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/drawable-mdpi-v4/open.png" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/runConfigurations.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" afterPath="$PROJECT_DIR$/app/build/intermediates/blame/res/debug/multi/values.json" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" afterPath="$PROJECT_DIR$/app/build/intermediates/res/merged/debug/values/values.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="TAMUK-Augment-Room-Design.iws" />
@@ -494,6 +552,16 @@
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
                 <option name="name" value="preReleaseUnitTestBuild" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:appcompat-v7:22.0.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportAppcompatV72200Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-v4:22.0.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="prepareComAndroidSupportSupportV42200Library" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
@@ -1038,6 +1106,16 @@
                 <option name="name" value="preReleaseUnitTestBuild" />
               </ExternalTaskPojo>
               <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:appcompat-v7:22.0.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportAppcompatV72200Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Prepare com.android.support:support-v4:22.0.0" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
+                <option name="name" value="prepareComAndroidSupportSupportV42200Library" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
                 <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/app" />
                 <option name="name" value="prepareDebugAndroidTestDependencies" />
               </ExternalTaskPojo>
@@ -1220,7 +1298,7 @@
     </option>
     <option name="modificationStamps">
       <map>
-        <entry key="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design" value="4381231958113" />
+        <entry key="C:\Users\Mons\Documents\GitHub\TAMUK-Augment-Room-Design" value="4381232432990" />
       </map>
     </option>
     <option name="projectBuildClasspath">
@@ -1436,6 +1514,9 @@
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/commons-codec/commons-codec/1.4/commons-codec-1.4.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0-sources.jar" />
                             <option value="$APPLICATION_HOME_DIR$/gradle/m2repository/com/intellij/annotations/12.0/annotations-12.0.jar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/sdk2/extras/android/m2repository/com/android/support/appcompat-v7/22.0.0/appcompat-v7-22.0.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/sdk2/extras/android/m2repository/com/android/support/support-v4/22.0.0/support-v4-22.0.0.aar" />
+                            <option value="$USER_HOME$/AppData/Local/Android/sdk2/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar" />
                             <option value="$MODULE_DIR$/libs/AndAR.jar" />
                           </list>
                         </option>
@@ -1606,10 +1687,10 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="PackagesPane" />
       <pane id="ProjectPane" />
       <pane id="Scratches" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="AndroidView">
         <subPane>
           <PATH>
@@ -1781,7 +1862,7 @@
     <editor active="false" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2879046" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Build Variants" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -1795,7 +1876,7 @@
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Gradle Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24962178" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1505295" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Android Model" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
