@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\res\\merged\\debug\\values-ko\\values-ko.xml",
+=======
+        "outputFile": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\res\\merged\\debug\\values-ko\\values-ko.xml",
+>>>>>>> 8fc20b674b756aaa583166d31c0eaaea0524a0ae
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 145
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+=======
+                    "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+>>>>>>> 8fc20b674b756aaa583166d31c0eaaea0524a0ae
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +38,11 @@
                     "endOffset": 253
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+=======
+                    "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+>>>>>>> 8fc20b674b756aaa583166d31c0eaaea0524a0ae
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -49,7 +61,11 @@
                     "endOffset": 376
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+=======
+                    "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+>>>>>>> 8fc20b674b756aaa583166d31c0eaaea0524a0ae
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -68,7 +84,11 @@
                     "endOffset": 470
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+=======
+                    "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+>>>>>>> 8fc20b674b756aaa583166d31c0eaaea0524a0ae
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -87,7 +107,11 @@
                     "endOffset": 572
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+=======
+                    "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+>>>>>>> 8fc20b674b756aaa583166d31c0eaaea0524a0ae
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -106,7 +130,11 @@
                     "endOffset": 654
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+=======
+                    "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+>>>>>>> 8fc20b674b756aaa583166d31c0eaaea0524a0ae
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -125,7 +153,11 @@
                     "endOffset": 752
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+=======
+                    "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+>>>>>>> 8fc20b674b756aaa583166d31c0eaaea0524a0ae
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -144,7 +176,11 @@
                     "endOffset": 858
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+=======
+                    "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+>>>>>>> 8fc20b674b756aaa583166d31c0eaaea0524a0ae
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -163,7 +199,11 @@
                     "endOffset": 956
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+=======
+                    "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+>>>>>>> 8fc20b674b756aaa583166d31c0eaaea0524a0ae
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -182,7 +222,11 @@
                     "endOffset": 1051
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+=======
+                    "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+>>>>>>> 8fc20b674b756aaa583166d31c0eaaea0524a0ae
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -201,7 +245,11 @@
                     "endOffset": 1146
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+=======
+                    "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+>>>>>>> 8fc20b674b756aaa583166d31c0eaaea0524a0ae
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -220,7 +268,11 @@
                     "endOffset": 1246
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+=======
+                    "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+>>>>>>> 8fc20b674b756aaa583166d31c0eaaea0524a0ae
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -239,7 +291,11 @@
                     "endOffset": 1342
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+=======
+                    "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+>>>>>>> 8fc20b674b756aaa583166d31c0eaaea0524a0ae
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -258,7 +314,11 @@
                     "endOffset": 1441
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+=======
+                    "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+>>>>>>> 8fc20b674b756aaa583166d31c0eaaea0524a0ae
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -277,7 +337,11 @@
                     "endOffset": 1556
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+=======
+                    "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+>>>>>>> 8fc20b674b756aaa583166d31c0eaaea0524a0ae
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -296,7 +360,11 @@
                     "endOffset": 1650
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+=======
+                    "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-ko\\values.xml",
+>>>>>>> 8fc20b674b756aaa583166d31c0eaaea0524a0ae
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,

@@ -1,6 +1,10 @@
 [
     {
+<<<<<<< HEAD
         "outputFile": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\res\\merged\\debug\\values-w600dp-v13\\values-w600dp-v13.xml",
+=======
+        "outputFile": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\res\\merged\\debug\\values-w600dp-v13\\values-w600dp-v13.xml",
+>>>>>>> 8fc20b674b756aaa583166d31c0eaaea0524a0ae
         "map": [
             {
                 "to": {
@@ -11,7 +15,11 @@
                     "endOffset": 114
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-w600dp-v13\\values.xml",
+=======
+                    "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-w600dp-v13\\values.xml",
+>>>>>>> 8fc20b674b756aaa583166d31c0eaaea0524a0ae
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -30,7 +38,11 @@
                     "endOffset": 169
                 },
                 "from": {
+<<<<<<< HEAD
                     "file": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-w600dp-v13\\values.xml",
+=======
+                    "file": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\values-w600dp-v13\\values.xml",
+>>>>>>> 8fc20b674b756aaa583166d31c0eaaea0524a0ae
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,

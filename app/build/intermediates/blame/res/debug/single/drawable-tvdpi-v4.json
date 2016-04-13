@@ -1,10 +1,19 @@
 [
     {
+<<<<<<< HEAD
         "merged": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
         "source": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-tvdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
     },
     {
         "merged": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
         "source": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-tvdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+=======
+        "merged": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-tvdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-tvdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\22.0.0\\res\\drawable-tvdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+>>>>>>> 8fc20b674b756aaa583166d31c0eaaea0524a0ae
     }
 ]
