@@ -1,6 +1,5 @@
 [
     {
-<<<<<<< HEAD
         "merged": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
         "source": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
     },
@@ -19,25 +18,5 @@
     {
         "merged": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\translate.png",
         "source": "C:\\Users\\Mons\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\drawable-ldpi\\translate.png"
-=======
-        "merged": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\rotate.png",
-        "source": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\drawable-ldpi\\rotate.png"
-    },
-    {
-        "merged": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_launcher.png",
-        "source": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\drawable-ldpi\\ic_launcher.png"
-    },
-    {
-        "merged": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\scale.png",
-        "source": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\drawable-ldpi\\scale.png"
-    },
-    {
-        "merged": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\translate.png",
-        "source": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\drawable-ldpi\\translate.png"
-    },
-    {
-        "merged": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\screenshoticon.png",
-        "source": "C:\\Users\\Manny S\\Documents\\GitHub\\TAMUK-Augment-Room-Design\\app\\src\\main\\res\\drawable-ldpi\\screenshoticon.png"
->>>>>>> 8fc20b674b756aaa583166d31c0eaaea0524a0ae
     }
 ]
