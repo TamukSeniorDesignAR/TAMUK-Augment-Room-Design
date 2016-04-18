@@ -5,7 +5,7 @@ android {
     buildToolsVersion "23.0.2"
 
     defaultConfig {
-        applicationId "com.paar.ch8"
+        applicationId "com.paar.ARRD"
         minSdkVersion 21
         targetSdkVersion 22
     }
