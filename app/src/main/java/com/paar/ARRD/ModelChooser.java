@@ -12,6 +12,7 @@ import android.content.Intent;
 import android.content.res.AssetManager;
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
+import android.graphics.Color;
 import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -20,6 +21,10 @@ import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
+/*
+TODO
+change font style
+ */
 
 public class ModelChooser extends ListActivity {
 	@Override
@@ -33,9 +38,9 @@ public class ModelChooser extends ListActivity {
 		AssetManager am = getAssets();
 		Vector<Item> models = new Vector<Item>();
 		Item item = new Item();
-		item.text = " ";
-		item.type = Item.TYPE_HEADER;
-		models.add(item);
+		//item.text = "sample_test_of_itemText "; // took this off to remove the random line on the top that was no longer needed
+		//item.type = Item.TYPE_HEADER;
+		//models.add(item);
 
 		try {
 			String[] modelFiles = am.list("models");

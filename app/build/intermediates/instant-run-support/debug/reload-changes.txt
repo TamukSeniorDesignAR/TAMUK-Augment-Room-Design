@@ -1,2 +1,2 @@
-CHANGED,C:\Users\lucas\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\paar\ARRD\Model$override.class
 CHANGED,C:\Users\lucas\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\lucas\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\paar\ARRD\ModelViewer$ModelLoader$override.class

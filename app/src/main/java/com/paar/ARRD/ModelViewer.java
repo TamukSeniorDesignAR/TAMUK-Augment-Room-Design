@@ -176,13 +176,13 @@ public class ModelViewer extends AndARActivity implements SurfaceHolder.Callback
 		private String modelName2patternName (String modelName) {
 			String patternName = "android";
 			
-			if (modelName.equals("plant.obj")) {
+			if (modelName.equals("Plant.obj")) {
 				patternName = "marker_rupee16";
-			} else if (modelName.equals("chair.obj")) {
+			} else if (modelName.equals("Chair.obj")) {
 				patternName = "marker_fisch16";
 			} else if (modelName.equals("tower.obj")) {
 				patternName = "marker_peace16";
-			} else if (modelName.equals("bench.obj")) {
+			} else if (modelName.equals("Bench.obj")) {
 				patternName = "marker_at16";
 			} else if (modelName.equals("towergreen.obj")) {
 				patternName = "marker_hand16";
@@ -238,7 +238,7 @@ public class ModelViewer extends AndARActivity implements SurfaceHolder.Callback
 							Log.w("ModelLoader", "model3d = new Model3D(model, " + modelName2patternName(modelFileName) + ".patt");
 							model3d = new Model3D(model, modelName2patternName(modelFileName) + ".patt");
 						}
-						String modelFileName2 = "chair.obj";
+						String modelFileName2 = "Chair.obj";
 						BufferedReader fileReader2 = fileUtil.getReaderFromName(modelFileName2);
 						if(fileReader2 != null) {
 							model2 = parser.parse("Chair", fileReader2);
@@ -265,7 +265,7 @@ public class ModelViewer extends AndARActivity implements SurfaceHolder.Callback
 						} else {
 							Log.w("ModelLoader", "no file reader");
 						} */
-						String modelFileName5 = "plant.obj";
+						String modelFileName5 = "Plant.obj";
 						BufferedReader fileReader5 = fileUtil.getReaderFromName(modelFileName5);
 						if(fileReader5 != null) {
 							model5 = parser.parse("Plant", fileReader5);
