@@ -3,7 +3,7 @@
     android:layout_width="fill_parent"
     android:layout_height="?android:attr/listPreferredItemHeight"
     android:padding="8dip"
-    android:background="#5A5050">
+    android:background="#212121">
 <ImageView
         android:id="@+id/choose_model_row_icon"
         android:layout_width="50dp"
@@ -19,7 +19,7 @@
     android:paddingLeft="12dip"
     android:minHeight="?android:attr/listPreferredItemHeight"
     android:textSize="25dp"
-    android:textColor="#00A5C4"
+    android:textColor="#FFFFFF"
 />
 
 </LinearLayout>

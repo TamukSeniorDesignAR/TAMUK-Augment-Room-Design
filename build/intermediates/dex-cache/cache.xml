@@ -1,3 +1,54 @@
 <?xml version="1.0" encoding="utf-8"?>
-<items version="2" />
+<items version="2" >
 
+    <item
+        jar="C:\Users\lucas\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="53750eb373beb4d6b1e7fb1bcb89791bef24f0ed">
+        <dex dex="C:\Users\lucas\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_bec9e0ec01fe8793d4da6accd71b00f2f80a265a\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lucas\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="C:\Users\lucas\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-22.0.0_4f32ce21df766c77512a9671c00027abc4964fe6\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lucas\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\exploded-aar\com.android.support\support-v4\22.0.0\jars\libs\internal_impl-22.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="C:\Users\lucas\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-22.0.0_fc48c0e1b7ae53b16593e41d8ad8ab99e6eff506\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lucas\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\22.0.0\support-annotations-22.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="C:\Users\lucas\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-22.0.0_67e5d750dcad82a91d78cf299639c0b1eb709cd7\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lucas\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\22.0.0\jars\classes.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d84409890828e07d344a3b9b1da545dba9897b51">
+        <dex dex="C:\Users\lucas\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-22.0.0_722bc8dc0862562bab620770a01595a934bafbb4\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lucas\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="f9765e8109c1d08eaf16bd9c64d8fd9957ce1a44">
+        <dex dex="C:\Users\lucas\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_41bffb4e78b3a5bb2b48d150cee2ebb5f8b3f7ff\classes.dex" />
+    </item>
+    <item
+        jar="C:\Users\lucas\Documents\GitHub\TAMUK-Augment-Room-Design\app\libs\AndAR.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="c64ed86ab05b29edb2fec1044418873c78a06415">
+        <dex dex="C:\Users\lucas\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\transforms\dex\debug\folders\1000\2\AndAR_679ed1d91b83f6abbc563bcd654f1c0b1570bffb\classes.dex" />
+    </item>
+
+</items>
