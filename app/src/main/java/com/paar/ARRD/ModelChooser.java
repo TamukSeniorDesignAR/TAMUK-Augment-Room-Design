@@ -1,4 +1,4 @@
-package com.paar.ch8;
+package com.paar.ARRD;
 
 import java.io.IOException;
 import java.io.InputStream;
@@ -16,11 +16,15 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
-import android.view.Window;
 import android.widget.BaseAdapter;
 import android.widget.ImageView;
 import android.widget.ListView;
 import android.widget.TextView;
+
+import com.paar.ARRD.CheckFileManagerActivity;
+import com.paar.ARRD.Instructions;
+import com.paar.ARRD.ModelViewer;
+import com.paar.ARRD.R;
 
 public class ModelChooser extends ListActivity {
 	@Override

@@ -1,6 +1,7 @@
 package com.paar.ARRD;
 
-import java.io.File;
+import
+java.io.File;
 import java.net.URI;
 
 import android.app.Activity;
@@ -15,7 +16,6 @@ import android.net.Uri;
 import android.os.Bundle;
 import android.widget.TextView;
 import android.widget.Toast;
-
 public class CheckFileManagerActivity extends Activity {
 
 	private final int PICK_FILE = 1;
@@ -83,7 +83,7 @@ public class CheckFileManagerActivity extends Activity {
 			    	default:
 			    	case Activity.RESULT_CANCELED:
 			    		//back to the main activity
-			    		Intent intent = new Intent(CheckFileManagerActivity.this, ModelChooser.class);
+			    		Intent intent = new Intent(CheckFileManagerActivity.this, com.paar.ARRD.ModelChooser.class);
 			            startActivity(intent);
 			    		break;
 		    	}

@@ -1,42 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <instant-run
-    abi="arm64-v8a,armeabi-v7a,armeabi"
-    api-level="23"
-    density="560dpi"
+    abi="armeabi-v7a,armeabi"
+    api-level="22"
+    density="tvdpi"
     format="7"
-    timestamp="71309311572200" >
+    timestamp="74336265297534" >
 
     <task
         name="javac"
-        duration="994" />
+        duration="531" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="113" />
+        duration="532" />
     <task
         name="verifier"
-        duration="16" />
+        duration="186" />
 
     <artifact
-        location="C:\Users\Manny S\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-        type="DEX" />
+        location="C:\Users\Manny S\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\outputs\apk\app-debug.apk"
+        type="MAIN" />
 
-    <build timestamp="70454838170578" >
+    <build timestamp="74336265297534" >
         <artifact
             location="C:\Users\Manny S\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\outputs\apk\app-debug.apk"
             type="MAIN" />
-    </build>
-    <build timestamp="71256791716748" >
-        <artifact
-            location="C:\Users\Manny S\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\res\resources-debug.ap_"
-            type="RESOURCES" />
-    </build>
-    <build timestamp="71309311572200" >
-        <artifact
-            location="C:\Users\Manny S\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\transforms\dex\debug\folders\1000\5\slice_2\classes.dex"
-            type="DEX" />
     </build>
 
 </instant-run>

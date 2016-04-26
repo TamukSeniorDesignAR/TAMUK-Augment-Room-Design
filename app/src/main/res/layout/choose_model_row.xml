@@ -2,11 +2,7 @@
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="?android:attr/listPreferredItemHeight"
-<<<<<<< HEAD
     android:padding="6dip"
-=======
-    android:padding="8dip"
->>>>>>> 541605c19618519971638a1743c35576effb8dac
     android:background="#212121">
 <ImageView
         android:id="@+id/choose_model_row_icon"
@@ -22,14 +18,8 @@
     android:gravity="center_vertical"
     android:paddingLeft="6dip"
     android:minHeight="?android:attr/listPreferredItemHeight"
-<<<<<<< HEAD
     android:textColor="#FAFAFA"
-
-=======
-    android:textSize="25dp"
-    android:textColor="#FFFFFF"
-/>
->>>>>>> 541605c19618519971638a1743c35576effb8dac
+    android:textSize="25dp"/>
 
 />
 </LinearLayout>
