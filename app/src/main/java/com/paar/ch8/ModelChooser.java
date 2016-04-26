@@ -34,9 +34,9 @@ public class ModelChooser extends ListActivity {
 		AssetManager am = getAssets();
 		Vector<Item> models = new Vector<Item>();
 		Item item = new Item();
-		item.text = " ";
-		item.type = Item.TYPE_HEADER;
-		models.add(item);
+		//item.text = " ";
+		//item.type = Item.TYPE_HEADER;
+		//models.add(item);
 
 		try {
 			String[] modelFiles = am.list("models");

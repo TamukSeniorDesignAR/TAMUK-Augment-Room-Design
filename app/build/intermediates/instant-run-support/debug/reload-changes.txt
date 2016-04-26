@@ -1,0 +1,4 @@
+CHANGED,C:\Users\Manny S\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\paar\ch8\ModelChooser$ModelChooserListAdapter$override.class
+CHANGED,C:\Users\Manny S\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\paar\ch8\ModelChooser$Item$override.class
+CHANGED,C:\Users\Manny S\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\android\tools\fd\runtime\AppPatchesLoaderImpl.class
+CHANGED,C:\Users\Manny S\Documents\GitHub\TAMUK-Augment-Room-Design\app\build\intermediates\transforms\instantRun\debug\folders\4000\5\enhanced\com\paar\ch8\ModelChooser$override.class
