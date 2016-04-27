@@ -46,7 +46,7 @@ public class ModelViewer extends AndARActivity implements SurfaceHolder.Callback
 	private final int MENU_TRANSLATE = 2;
 	private final int MENU_SCREENSHOT = 3;
 	
-	private int mode = MENU_SCALE;
+	private int mode = MENU_TRANSLATE;
 	
 
 	private Model model;
